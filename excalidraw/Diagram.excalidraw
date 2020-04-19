@@ -506,7 +506,7 @@
     {
       "id": "5JueA_RjEh6bVmpjffyOe",
       "type": "text",
-      "x": 902.5000000000009,
+      "x": 905.6250000000009,
       "y": 502.33333333333417,
       "width": 226,
       "height": 75,
@@ -518,8 +518,8 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 605360108,
-      "version": 690,
-      "versionNonce": 2052813036,
+      "version": 706,
+      "versionNonce": 566058964,
       "isDeleted": false,
       "text": "STEP 2:\ncreate a diagram that\nrepresents one's environment",
       "font": "16px Virgil",
@@ -1423,6 +1423,249 @@
       "font": "16px Virgil",
       "textAlign": "right",
       "baseline": 68
+    },
+    {
+      "id": "XHqeJSUzuckz46Jei84P5",
+      "type": "arrow",
+      "x": 819.7777777777778,
+      "y": 652.5,
+      "width": 135.55555555555554,
+      "height": 43.33333333333337,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1977683540,
+      "version": 84,
+      "versionNonce": 1295466092,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          42.22222222222217,
+          43.33333333333337
+        ],
+        [
+          90,
+          34.44444444444446
+        ],
+        [
+          135.55555555555554,
+          5.555555555555543
+        ]
+      ],
+      "lastCommittedPoint": [
+        135.55555555555554,
+        5.555555555555543
+      ]
+    },
+    {
+      "id": "iiRYRc1EUxdQz-d5IyjH4",
+      "type": "arrow",
+      "x": 816.4444444444443,
+      "y": 619.1666666666667,
+      "width": 346.66666666666663,
+      "height": 35.55555555555554,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 867380820,
+      "version": 148,
+      "versionNonce": 1933193964,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          128.8888888888889,
+          -28.888888888888914
+        ],
+        [
+          235.55555555555554,
+          -24.44444444444457
+        ],
+        [
+          346.66666666666663,
+          6.666666666666629
+        ]
+      ],
+      "lastCommittedPoint": [
+        346.66666666666663,
+        6.666666666666629
+      ]
+    },
+    {
+      "id": "mhKsF_OxdY5t3ieWqnuaO",
+      "type": "text",
+      "x": 826.3333333333329,
+      "y": 606.3888888888896,
+      "width": 97,
+      "height": 64,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1283772524,
+      "version": 101,
+      "versionNonce": 2060816364,
+      "isDeleted": false,
+      "text": "continuous\nfeedback",
+      "font": "20px Virgil",
+      "textAlign": "center",
+      "baseline": 55
+    },
+    {
+      "id": "hjZqc6IntucmhzlrCxoy8",
+      "type": "arrow",
+      "x": 1083.1805555555557,
+      "y": 604.2361111111111,
+      "width": 86.66666666666652,
+      "height": 85.55555555555554,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 119681516,
+      "version": 68,
+      "versionNonce": 853548628,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          63.33333333333326,
+          -17.77777777777783
+        ],
+        [
+          86.66666666666652,
+          -85.55555555555554
+        ]
+      ],
+      "lastCommittedPoint": [
+        86.66666666666652,
+        -85.55555555555554
+      ]
+    },
+    {
+      "id": "Mhm11XGPXUuA1yyhnBWL9",
+      "type": "line",
+      "x": 806.375,
+      "y": 624.104166666667,
+      "width": 0,
+      "height": 24.54166666666697,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1706569684,
+      "version": 625,
+      "versionNonce": 845455444,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -24.54166666666697
+        ]
+      ],
+      "lastCommittedPoint": [
+        0,
+        -137
+      ]
+    },
+    {
+      "id": "gD_lau5JqKvvSoxhn8J57",
+      "type": "arrow",
+      "x": 560,
+      "y": 792,
+      "width": 116,
+      "height": 284,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 41098708,
+      "version": 156,
+      "versionNonce": 1197206892,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -85,
+          -41
+        ],
+        [
+          -116,
+          -127
+        ],
+        [
+          -92,
+          -240
+        ],
+        [
+          -3,
+          -284
+        ]
+      ],
+      "lastCommittedPoint": [
+        -3,
+        -284
+      ]
+    },
+    {
+      "id": "rEBAvQM2rBpsYa4BxhYnl",
+      "type": "text",
+      "x": 19.5,
+      "y": 576,
+      "width": 433,
+      "height": 132,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 124107476,
+      "version": 463,
+      "versionNonce": 1277925844,
+      "isDeleted": false,
+      "text": "future becomes current world \n(step by step) and the design \na new world cycle continues...",
+      "font": "28px Virgil",
+      "textAlign": "right",
+      "baseline": 120
     }
   ],
   "appState": {
