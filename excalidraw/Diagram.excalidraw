@@ -18,7 +18,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1228392940,
-      "version": 274,
+      "version": 275,
       "versionNonce": 120423636,
       "isDeleted": false,
       "points": [
@@ -39,8 +39,8 @@
     {
       "id": "e-ek_Hj8SS5tS1x4V8hKb",
       "type": "text",
-      "x": 1111,
-      "y": 298,
+      "x": 1112,
+      "y": 348,
       "width": 146,
       "height": 44,
       "angle": 0,
@@ -51,8 +51,8 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 547383276,
-      "version": 342,
-      "versionNonce": 1729891028,
+      "version": 360,
+      "versionNonce": 1467215629,
       "isDeleted": false,
       "text": "orientation",
       "font": "28px Virgil",
@@ -74,7 +74,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1817005652,
-      "version": 554,
+      "version": 555,
       "versionNonce": 2102882924,
       "isDeleted": false,
       "text": "STEP 1:\nlocate oneself in one's environment\nin relation to\n(with an outside-in view!!!)",
@@ -97,7 +97,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 305914732,
-      "version": 238,
+      "version": 239,
       "versionNonce": 1257186260,
       "isDeleted": false
     },
@@ -116,7 +116,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 636101356,
-      "version": 171,
+      "version": 172,
       "versionNonce": 1844285908,
       "isDeleted": false,
       "points": [
@@ -153,7 +153,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1335809516,
-      "version": 88,
+      "version": 89,
       "versionNonce": 1063536236,
       "isDeleted": false
     },
@@ -172,7 +172,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 213593940,
-      "version": 125,
+      "version": 126,
       "versionNonce": 213558868,
       "isDeleted": false
     },
@@ -191,7 +191,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 59536212,
-      "version": 141,
+      "version": 142,
       "versionNonce": 778606828,
       "isDeleted": false
     },
@@ -210,7 +210,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 116007380,
-      "version": 85,
+      "version": 86,
       "versionNonce": 1018870740,
       "isDeleted": false,
       "text": "TIME",
@@ -233,7 +233,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1685963092,
-      "version": 97,
+      "version": 98,
       "versionNonce": 238984044,
       "isDeleted": false,
       "text": "PEOPLE",
@@ -256,7 +256,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1994918868,
-      "version": 104,
+      "version": 105,
       "versionNonce": 1864114516,
       "isDeleted": false,
       "text": "CONCEPTS",
@@ -267,9 +267,9 @@
     {
       "id": "-Drt0I-NGYbgccFbfm6A7",
       "type": "text",
-      "x": 1380,
-      "y": 465,
-      "width": 82,
+      "x": 1379,
+      "y": 471,
+      "width": 146,
       "height": 44,
       "angle": 0,
       "strokeColor": "#80869e",
@@ -279,10 +279,10 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 294326868,
-      "version": 414,
-      "versionNonce": 1807720300,
+      "version": 455,
+      "versionNonce": 1700246179,
       "isDeleted": false,
-      "text": "TEAM",
+      "text": "THINKERS",
       "font": "28px Virgil",
       "textAlign": "left",
       "baseline": 32
@@ -302,7 +302,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1319885292,
-      "version": 161,
+      "version": 162,
       "versionNonce": 1022235500,
       "isDeleted": false,
       "points": [
@@ -335,7 +335,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 432082924,
-      "version": 86,
+      "version": 87,
       "versionNonce": 230188628,
       "isDeleted": false,
       "points": [
@@ -368,7 +368,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 604539092,
-      "version": 904,
+      "version": 905,
       "versionNonce": 1927679212,
       "isDeleted": false
     },
@@ -387,7 +387,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1786492372,
-      "version": 163,
+      "version": 164,
       "versionNonce": 1636273108,
       "isDeleted": false,
       "points": [
@@ -420,7 +420,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 315134828,
-      "version": 944,
+      "version": 945,
       "versionNonce": 1216071636,
       "isDeleted": false
     },
@@ -439,7 +439,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1805387372,
-      "version": 695,
+      "version": 696,
       "versionNonce": 1094244948,
       "isDeleted": false
     },
@@ -458,7 +458,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1277504852,
-      "version": 412,
+      "version": 413,
       "versionNonce": 1500381396,
       "isDeleted": false,
       "text": "world diagram",
@@ -481,7 +481,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1640918124,
-      "version": 76,
+      "version": 77,
       "versionNonce": 1872080852,
       "isDeleted": false,
       "points": [
@@ -518,7 +518,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 605360108,
-      "version": 706,
+      "version": 707,
       "versionNonce": 566058964,
       "isDeleted": false,
       "text": "STEP 2:\ncreate a diagram that\nrepresents one's environment",
@@ -541,7 +541,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 987682540,
-      "version": 222,
+      "version": 223,
       "versionNonce": 74040556,
       "isDeleted": false,
       "points": [
@@ -574,7 +574,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 465215956,
-      "version": 218,
+      "version": 219,
       "versionNonce": 335055828,
       "isDeleted": false,
       "points": [
@@ -607,7 +607,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 896724076,
-      "version": 515,
+      "version": 516,
       "versionNonce": 242402284,
       "isDeleted": false,
       "text": "future world \ndiagram",
@@ -630,16 +630,16 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 363990380,
-      "version": 1105,
+      "version": 1106,
       "versionNonce": 836283756,
       "isDeleted": false
     },
     {
       "id": "WXxOHp5-9ZQg01dOZtsNN",
       "type": "text",
-      "x": 1374.6666666666665,
-      "y": 613.6666666666658,
-      "width": 180,
+      "x": 1372.1666666666665,
+      "y": 615.6666666666658,
+      "width": 275,
       "height": 44,
       "angle": 0,
       "strokeColor": "#80869e",
@@ -649,10 +649,10 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1689564396,
-      "version": 562,
-      "versionNonce": 1693175636,
+      "version": 613,
+      "versionNonce": 774978989,
       "isDeleted": false,
-      "text": "Stakeholders",
+      "text": "DECISION-MAKERS",
       "font": "28px Virgil",
       "textAlign": "left",
       "baseline": 32
@@ -672,7 +672,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 832320724,
-      "version": 156,
+      "version": 157,
       "versionNonce": 891886804,
       "isDeleted": false
     },
@@ -691,7 +691,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 55952084,
-      "version": 107,
+      "version": 108,
       "versionNonce": 722471276,
       "isDeleted": false,
       "points": [
@@ -724,7 +724,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 859538412,
-      "version": 246,
+      "version": 247,
       "versionNonce": 1875387092,
       "isDeleted": false,
       "points": [
@@ -757,7 +757,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1934810732,
-      "version": 460,
+      "version": 461,
       "versionNonce": 94899028,
       "isDeleted": false,
       "points": [
@@ -790,7 +790,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1036036460,
-      "version": 465,
+      "version": 466,
       "versionNonce": 2133373012,
       "isDeleted": false,
       "points": [
@@ -823,7 +823,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1323610708,
-      "version": 782,
+      "version": 783,
       "versionNonce": 2110399572,
       "isDeleted": false,
       "text": "STEP 3:\ndesign the future",
@@ -846,7 +846,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1965094868,
-      "version": 153,
+      "version": 154,
       "versionNonce": 77408492,
       "isDeleted": false,
       "text": "ENVIRONMENT",
@@ -869,7 +869,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 239098732,
-      "version": 669,
+      "version": 670,
       "versionNonce": 530349140,
       "isDeleted": false,
       "text": "route \ndiagram(s)",
@@ -892,7 +892,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 381984108,
-      "version": 280,
+      "version": 281,
       "versionNonce": 633935212,
       "isDeleted": false,
       "points": [
@@ -925,7 +925,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 205746028,
-      "version": 1050,
+      "version": 1051,
       "versionNonce": 1661586668,
       "isDeleted": false
     },
@@ -944,7 +944,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 2038975212,
-      "version": 915,
+      "version": 916,
       "versionNonce": 1746960364,
       "isDeleted": false
     },
@@ -963,7 +963,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 714921044,
-      "version": 645,
+      "version": 646,
       "versionNonce": 1861421652,
       "isDeleted": false,
       "text": "MAKERS",
@@ -986,7 +986,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1318666092,
-      "version": 347,
+      "version": 348,
       "versionNonce": 746625492,
       "isDeleted": false,
       "points": [
@@ -1019,7 +1019,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1700339308,
-      "version": 1149,
+      "version": 1150,
       "versionNonce": 473401964,
       "isDeleted": false
     },
@@ -1038,7 +1038,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 693294164,
-      "version": 916,
+      "version": 917,
       "versionNonce": 1727612012,
       "isDeleted": false,
       "text": "STEP 4:\nplan routes to reach \nthe envisioned \nfuture environment",
@@ -1061,7 +1061,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1011046124,
-      "version": 141,
+      "version": 142,
       "versionNonce": 1687411028,
       "isDeleted": false,
       "points": [
@@ -1102,7 +1102,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1211384660,
-      "version": 93,
+      "version": 94,
       "versionNonce": 967931860,
       "isDeleted": false,
       "points": [
@@ -1139,7 +1139,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1821685996,
-      "version": 1270,
+      "version": 1271,
       "versionNonce": 491696340,
       "isDeleted": false,
       "text": "STEP 5:\ngive a commitment \nto build \nthe envisioned \nfuture environment \nby following the planned routes",
@@ -1162,7 +1162,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 2023951980,
-      "version": 331,
+      "version": 332,
       "versionNonce": 58889452,
       "isDeleted": false
     },
@@ -1181,7 +1181,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 564944468,
-      "version": 181,
+      "version": 182,
       "versionNonce": 1531871188,
       "isDeleted": false
     },
@@ -1200,7 +1200,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1687052524,
-      "version": 218,
+      "version": 219,
       "versionNonce": 649664364,
       "isDeleted": false
     },
@@ -1219,7 +1219,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 984970196,
-      "version": 234,
+      "version": 235,
       "versionNonce": 244802900,
       "isDeleted": false
     },
@@ -1238,7 +1238,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 208364396,
-      "version": 178,
+      "version": 179,
       "versionNonce": 1425754604,
       "isDeleted": false,
       "text": "TIME",
@@ -1261,7 +1261,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1291835732,
-      "version": 190,
+      "version": 191,
       "versionNonce": 44538580,
       "isDeleted": false,
       "text": "PEOPLE",
@@ -1284,7 +1284,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1719932396,
-      "version": 197,
+      "version": 198,
       "versionNonce": 290663532,
       "isDeleted": false,
       "text": "CONCEPTS",
@@ -1307,7 +1307,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1138855636,
-      "version": 256,
+      "version": 257,
       "versionNonce": 1108680788,
       "isDeleted": false,
       "text": "FUTURE ENVIRONMENT",
@@ -1330,7 +1330,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 956706900,
-      "version": 381,
+      "version": 382,
       "versionNonce": 554399212,
       "isDeleted": false,
       "points": [
@@ -1363,7 +1363,7 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1524239596,
-      "version": 141,
+      "version": 142,
       "versionNonce": 1372830188,
       "isDeleted": false,
       "points": [
@@ -1416,7 +1416,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1522383700,
-      "version": 1020,
+      "version": 1021,
       "versionNonce": 1321783660,
       "isDeleted": false,
       "text": "STEP 6:\nbuild the envisioned \nfuture environment",
@@ -1439,7 +1439,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1977683540,
-      "version": 84,
+      "version": 85,
       "versionNonce": 1295466092,
       "isDeleted": false,
       "points": [
@@ -1480,7 +1480,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 867380820,
-      "version": 148,
+      "version": 149,
       "versionNonce": 1933193964,
       "isDeleted": false,
       "points": [
@@ -1521,7 +1521,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1283772524,
-      "version": 101,
+      "version": 102,
       "versionNonce": 2060816364,
       "isDeleted": false,
       "text": "continuous\nfeedback",
@@ -1544,7 +1544,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 119681516,
-      "version": 68,
+      "version": 69,
       "versionNonce": 853548628,
       "isDeleted": false,
       "points": [
@@ -1581,7 +1581,7 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1706569684,
-      "version": 625,
+      "version": 626,
       "versionNonce": 845455444,
       "isDeleted": false,
       "points": [
@@ -1600,57 +1600,12 @@
       ]
     },
     {
-      "id": "gD_lau5JqKvvSoxhn8J57",
-      "type": "arrow",
-      "x": 560,
-      "y": 792,
-      "width": 116,
-      "height": 284,
-      "angle": 0,
-      "strokeColor": "#343a40",
-      "backgroundColor": "#fa5252",
-      "fillStyle": "hachure",
-      "strokeWidth": 4,
-      "roughness": 1,
-      "opacity": 100,
-      "seed": 41098708,
-      "version": 156,
-      "versionNonce": 1197206892,
-      "isDeleted": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          -85,
-          -41
-        ],
-        [
-          -116,
-          -127
-        ],
-        [
-          -92,
-          -240
-        ],
-        [
-          -3,
-          -284
-        ]
-      ],
-      "lastCommittedPoint": [
-        -3,
-        -284
-      ]
-    },
-    {
       "id": "rEBAvQM2rBpsYa4BxhYnl",
       "type": "text",
-      "x": 19.5,
-      "y": 576,
-      "width": 433,
-      "height": 132,
+      "x": 425.3571428571428,
+      "y": 705.4285714285713,
+      "width": 125,
+      "height": 75,
       "angle": 0,
       "strokeColor": "#343a40",
       "backgroundColor": "#fa5252",
@@ -1659,13 +1614,180 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 124107476,
-      "version": 463,
-      "versionNonce": 1277925844,
+      "version": 670,
+      "versionNonce": 683797165,
       "isDeleted": false,
-      "text": "future becomes current world \n(step by step) and the design \na new world cycle continues...",
-      "font": "28px Virgil",
+      "text": "future becomes\ncurrent world \n(step by step) ",
+      "font": "16px Virgil",
       "textAlign": "right",
-      "baseline": 120
+      "baseline": 68
+    },
+    {
+      "id": "8aYIohBuOMwILA3S5HAKe",
+      "type": "text",
+      "x": 1400.5,
+      "y": 306,
+      "width": 97,
+      "height": 64,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 590696835,
+      "version": 224,
+      "versionNonce": 936212493,
+      "isDeleted": false,
+      "text": "continuous\nlearning",
+      "font": "20px Virgil",
+      "textAlign": "center",
+      "baseline": 55
+    },
+    {
+      "id": "F7zxvc5Vz4TdoIIcyKx-X",
+      "type": "arrow",
+      "x": 573,
+      "y": 750,
+      "width": 21,
+      "height": 140,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 718714307,
+      "version": 71,
+      "versionNonce": 709439491,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -16,
+          -42
+        ],
+        [
+          -21,
+          -89
+        ],
+        [
+          -15,
+          -118
+        ],
+        [
+          0,
+          -140
+        ]
+      ],
+      "lastCommittedPoint": [
+        0,
+        -140
+      ]
+    },
+    {
+      "id": "ZlfCWgBzVI79-YyzLXlpl",
+      "type": "arrow",
+      "x": 1376,
+      "y": 476,
+      "width": 214,
+      "height": 173,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1542427597,
+      "version": 204,
+      "versionNonce": 2086633539,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          26,
+          -65
+        ],
+        [
+          25,
+          -131
+        ],
+        [
+          -12,
+          -161
+        ],
+        [
+          -84,
+          -173
+        ],
+        [
+          -142,
+          -168
+        ],
+        [
+          -188,
+          -143
+        ]
+      ],
+      "lastCommittedPoint": [
+        -188,
+        -143
+      ]
+    },
+    {
+      "id": "BMRGp60DDGt2jca_fIMhH",
+      "type": "text",
+      "x": 765.5000000000001,
+      "y": 990.5000000000005,
+      "width": 613,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1392694083,
+      "version": 137,
+      "versionNonce": 1869541603,
+      "isDeleted": false,
+      "text": "people are not thinkers or makers or decision-makers but they are all three!",
+      "font": "16px Virgil",
+      "textAlign": "right",
+      "baseline": 18
+    },
+    {
+      "id": "gM8jHJQ3lEa7IZOTUYLWx",
+      "type": "text",
+      "x": 450.6428571428572,
+      "y": 631.5714285714299,
+      "width": 97,
+      "height": 64,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1760813229,
+      "version": 214,
+      "versionNonce": 347098253,
+      "isDeleted": false,
+      "text": "continuous\nchange",
+      "font": "20px Virgil",
+      "textAlign": "center",
+      "baseline": 55
     }
   ],
   "appState": {
