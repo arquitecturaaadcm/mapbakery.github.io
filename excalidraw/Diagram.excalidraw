@@ -446,10 +446,10 @@
     {
       "id": "Az-afFxbsngReWxxZ6_Mt",
       "type": "text",
-      "x": 1106.0000000000011,
-      "y": 447.8333333333336,
-      "width": 135,
-      "height": 32,
+      "x": 1114.000000000001,
+      "y": 417.8333333333336,
+      "width": 119,
+      "height": 64,
       "angle": 0,
       "strokeColor": "#c92a2a",
       "backgroundColor": "transparent",
@@ -458,13 +458,13 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1277504852,
-      "version": 413,
-      "versionNonce": 1500381396,
+      "version": 442,
+      "versionNonce": 1743023785,
       "isDeleted": false,
-      "text": "world diagram",
+      "text": "environment \ndiagram",
       "font": "20px Virgil",
-      "textAlign": "left",
-      "baseline": 23
+      "textAlign": "center",
+      "baseline": 55
     },
     {
       "id": "eJZStnrJlyRj642R3vtos",
@@ -595,9 +595,9 @@
     {
       "id": "I7nMSHWFP2ZjVAt7kapNI",
       "type": "text",
-      "x": 1118.4999999999977,
+      "x": 1087.4999999999977,
       "y": 640.0000000000001,
-      "width": 131,
+      "width": 193,
       "height": 64,
       "angle": 0,
       "strokeColor": "#c92a2a",
@@ -607,10 +607,10 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 896724076,
-      "version": 516,
-      "versionNonce": 242402284,
+      "version": 551,
+      "versionNonce": 1301918761,
       "isDeleted": false,
-      "text": "future world \ndiagram",
+      "text": "adjecent possible \nenvironment diagram",
       "font": "20px Virgil",
       "textAlign": "center",
       "baseline": 55
@@ -1026,10 +1026,10 @@
     {
       "id": "l6MWjeXHtj-fO5KVAH9io",
       "type": "text",
-      "x": 1012.666666666667,
-      "y": 749.7499999999994,
-      "width": 174,
-      "height": 100,
+      "x": 963.166666666667,
+      "y": 751.2499999999995,
+      "width": 263,
+      "height": 75,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -1038,13 +1038,13 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 693294164,
-      "version": 921,
-      "versionNonce": 2032971209,
+      "version": 952,
+      "versionNonce": 371395785,
       "isDeleted": false,
-      "text": "STEP 4:\nplan routes to reach \nthe envisioned \nenvironment",
+      "text": "STEP 4:\nplan routes to reach \nthe adjacent possible environment",
       "font": "16px Virgil",
       "textAlign": "center",
-      "baseline": 93
+      "baseline": 68
     },
     {
       "id": "fdKvYRPMEJ6UxTtjSc4ba",
@@ -1088,49 +1088,12 @@
       ]
     },
     {
-      "id": "OjbbLN9VBPS2C4PRdAxVf",
-      "type": "arrow",
-      "x": 1414.6666666666667,
-      "y": 668.4166666666667,
-      "width": 218.33333333333326,
-      "height": 138.33333333333326,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "roughness": 1,
-      "opacity": 30,
-      "seed": 1211384660,
-      "version": 94,
-      "versionNonce": 967931860,
-      "isDeleted": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          -77.5,
-          113.33333333333326
-        ],
-        [
-          -218.33333333333326,
-          138.33333333333326
-        ]
-      ],
-      "lastCommittedPoint": [
-        -218.33333333333326,
-        138.33333333333326
-      ]
-    },
-    {
       "id": "KTgiQLCfZPuivvppxnSii",
       "type": "text",
-      "x": 1273.1666666666642,
-      "y": 761.7500000000005,
-      "width": 243,
-      "height": 150,
+      "x": 1388.1666666666642,
+      "y": 701.7500000000005,
+      "width": 263,
+      "height": 100,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -1139,13 +1102,13 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1821685996,
-      "version": 1275,
-      "versionNonce": 584177417,
+      "version": 1547,
+      "versionNonce": 1929831463,
       "isDeleted": false,
-      "text": "STEP 5:\ngive a commitment \nto build \nthe envisioned \nenvironment \nby following the planned routes",
+      "text": "STEP 5:\ngive a commitment to build\nthe adjacent possible environment\nby following the planned routes",
       "font": "16px Virgil",
       "textAlign": "center",
-      "baseline": 143
+      "baseline": 93
     },
     {
       "id": "DyQwf3eRC8ftd8auPSgnw",
@@ -1153,7 +1116,7 @@
       "x": 577.357142857143,
       "y": 753.8789682539676,
       "width": 275,
-      "height": 259.4067460317467,
+      "height": 225.12103174603237,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -1162,8 +1125,8 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 2023951980,
-      "version": 420,
-      "versionNonce": 425756361,
+      "version": 476,
+      "versionNonce": 407498281,
       "isDeleted": false
     },
     {
@@ -1295,10 +1258,10 @@
     {
       "id": "psG8y7NoVJeB69Mfb3BQw",
       "type": "text",
-      "x": 621.0238095238092,
+      "x": 596.5238095238092,
       "y": 912.581349206348,
-      "width": 194,
-      "height": 96,
+      "width": 243,
+      "height": 64,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -1307,13 +1270,13 @@
       "roughness": 1,
       "opacity": 30,
       "seed": 1138855636,
-      "version": 356,
-      "versionNonce": 275986247,
+      "version": 388,
+      "versionNonce": 729913897,
       "isDeleted": false,
-      "text": "ENVISIONED\n(adjacent possible) \nENVIRONMENT",
+      "text": "ADJACENT POSSIBLE \nENVIRONMENT",
       "font": "20px Virgil",
       "textAlign": "center",
-      "baseline": 87
+      "baseline": 55
     },
     {
       "id": "X8KlEanvnXEmR5exHIDoP",
@@ -1404,9 +1367,9 @@
     {
       "id": "pL9r_MBQ7m1FFgeVpAuTG",
       "type": "text",
-      "x": 601.2777777777782,
+      "x": 603.2777777777782,
       "y": 664.7777777777777,
-      "width": 157,
+      "width": 153,
       "height": 75,
       "angle": 0,
       "strokeColor": "#000000",
@@ -1416,10 +1379,10 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1522383700,
-      "version": 1025,
-      "versionNonce": 2010420361,
+      "version": 1048,
+      "versionNonce": 694108871,
       "isDeleted": false,
-      "text": "STEP 6:\nbuild the envisioned \nenvironment",
+      "text": "STEP 6:\nbuild the adjacent \npossible environment",
       "font": "16px Virgil",
       "textAlign": "right",
       "baseline": 68
@@ -1746,10 +1709,10 @@
     {
       "id": "BMRGp60DDGt2jca_fIMhH",
       "type": "text",
-      "x": 892.5,
-      "y": 983.178571428572,
-      "width": 664,
-      "height": 25,
+      "x": 927.5,
+      "y": 970.678571428572,
+      "width": 594,
+      "height": 50,
       "angle": 0,
       "strokeColor": "#c92a2a",
       "backgroundColor": "#fa5252",
@@ -1758,13 +1721,13 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1392694083,
-      "version": 226,
-      "versionNonce": 1999719815,
+      "version": 314,
+      "versionNonce": 1643842247,
       "isDeleted": false,
-      "text": "Note: people are not thinkers or makers or decision-makers but they are all three!",
+      "text": "Note: people are not just thinkers or makers or decision-makers \nbut they can and possibly will be fulfilling all of those roles at some point!",
       "font": "16px Virgil",
-      "textAlign": "right",
-      "baseline": 18
+      "textAlign": "left",
+      "baseline": 43
     },
     {
       "id": "gM8jHJQ3lEa7IZOTUYLWx",
@@ -1788,6 +1751,43 @@
       "font": "20px Virgil",
       "textAlign": "center",
       "baseline": 55
+    },
+    {
+      "id": "ZMDQHzB2Allmwuc9hp9L-",
+      "type": "arrow",
+      "x": 1464,
+      "y": 665,
+      "width": 277,
+      "height": 114,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "roughness": 1,
+      "opacity": 30,
+      "seed": 276621927,
+      "version": 265,
+      "versionNonce": 175388871,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          -277,
+          114
+        ]
+      ],
+      "lastCommittedPoint": [
+        -277,
+        114
+      ]
     }
   ],
   "appState": {
