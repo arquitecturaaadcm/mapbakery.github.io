@@ -1,2 +1,2 @@
 # mapbakery.github.io
-Transit Map Sketches strip map
+This is the repository for https://mapbakery.github.io/
