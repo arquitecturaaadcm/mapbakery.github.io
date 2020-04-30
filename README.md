@@ -29,4 +29,9 @@ I always use a compass to check my maps. But we can't use a real compass when we
 
 ### The OODA Loop
 
+- Observe: This is the part in which you use your eyes and ears to observe, to scan the environment 
+- Orient: Then you try to understand (evaluate) your situation in relation to what you scanned. And what routes you can take to reach your (next) control point. 
+- Decide: Based on your orientation you choose what you think is the best possible next step that you wlll take 
+- Act: And then you take that next step…
+
 ![Compass](images/OODAoriginal.png)  
