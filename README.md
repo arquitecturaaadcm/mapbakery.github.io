@@ -10,16 +10,11 @@ These are the steps for making a map skeleton:
     
 ![Map Features](/images/MapFeatures.png)
 
-Such a skeleton can become very messy (like a bowl of spaghetti), but luckily we can solve it by applying Harry Beck's map making principles.
-
-<a href="https://en.wikipedia.org/wiki/Harry_Beck">Harry Beck</a> designed one of the most famous maps, the iconic map of London’s Underground subway system.
+Such a skeleton can become very messy (like a bowl of spaghetti), but luckily we can solve it by applying Harry Beck's map making principles. <a href="https://en.wikipedia.org/wiki/Harry_Beck">Harry Beck</a> designed one of the most famous maps, the iconic map of London’s Underground subway system.
       
 ![Harry Beck](/images/beck_image.png)
       
-Harry Beck's map provides a coherent overview of a complex world, the world of the London Underground. 
-With only horizontal, vertical, and 45 degree lines, the map became a beautiful organizing image of London:
-      
-<img src="images/Beck.png" alt="Beck's diagramming principles"> 
+Harry Beck's map provides a coherent overview of a complex world, the world of the London Underground. With only horizontal, vertical, and 45 degree lines, the map became a beautiful organizing image of London. He made the map by following a few simple principles:
 
 ![Beck's diagramming principles](/images/Beck.png)      
 
