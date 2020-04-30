@@ -34,4 +34,8 @@ I always use a compass to check my maps. But we can't use a real compass when we
 - Decide: Based on your orientation you choose what you think is the best possible next step that you wlll take 
 - Act: And then you take that next step…
 
+#### The original OODA Loop diagram
+![Original OODA Loop](https://en.wikipedia.org/wiki/OODA_loop#/media/File:OODA.Boyd.svg)
+
+#### The sketched OODA Loop
 ![Compass](images/OODAoriginal.png)  
