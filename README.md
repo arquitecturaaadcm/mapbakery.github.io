@@ -24,7 +24,7 @@ With only horizontal, vertical, and 45 degree lines, the map became a beautiful 
       
 <img src="images/Beck.png" alt="Beck's diagramming principles"> 
 
-![Beck's diagramming principles](/images/beck_image.png)      
+![Beck's diagramming principles](/images/Beck.png)      
 
 
 Another way to keep maps simple is to use a small set of visual elements which everybody can understand. I use these:
