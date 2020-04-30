@@ -24,3 +24,9 @@ Another way to keep maps simple is to use a small set of visual elements which e
 I always use a compass to check my maps. But we can't use a real compass when we make a map of abstact things like concepts and ideas.So I made this compass that can be used to check if the map is complete:
 
 ![Compass](images/compass.png)  
+
+## Examples
+
+### The OODA Loop
+
+![Compass](images/OODAoriginal.png)  
