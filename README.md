@@ -12,20 +12,16 @@ These are the steps for making a map skeleton:
 
 Such a skeleton can become very messy (like a bowl of spaghetti), but luckily we can solve it by applying Harry Beck's map making principles.
 
-
 <a href="https://en.wikipedia.org/wiki/Harry_Beck">Harry Beck</a> designed one of the most famous maps, the iconic map of London’s Underground subway system.
       
 ![Harry Beck](/images/beck_image.png)
       
-      
 Harry Beck's map provides a coherent overview of a complex world, the world of the London Underground. 
 With only horizontal, vertical, and 45 degree lines, the map became a beautiful organizing image of London:
-      
       
 <img src="images/Beck.png" alt="Beck's diagramming principles"> 
 
 ![Beck's diagramming principles](/images/Beck.png)      
-
 
 Another way to keep maps simple is to use a small set of visual elements which everybody can understand. I use these:
 
@@ -33,4 +29,4 @@ Another way to keep maps simple is to use a small set of visual elements which e
 
 I always use a compass to check my maps. But we can't use a real compass when we make a map of abstact things like concepts and ideas.So I made this compass that can be used to check if the map is complete:
 
-
+![Compass](images/compass.png)  
