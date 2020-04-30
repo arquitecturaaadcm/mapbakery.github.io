@@ -8,8 +8,7 @@ A map with few well chosen features will give a much better map than a map clutt
 This skeleton becomes visible when you show only the connected features and lines. No matter how many different types of information you want to overlay on the skeleton, the skeleton will always be there for reference. 
     These are the steps for making a map skeleton:
     
-    
-    <img src="images/MapFeatures.png" alt="MapFeatures">
+    ![Map Features](images/MapFeatures.png)
 
 
 
