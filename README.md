@@ -35,7 +35,7 @@ I always use a compass to check my maps. But we can't use a real compass when we
 - Act: And then you take that next step…
 
 #### The original OODA Loop diagram
-![Original OODA Loop](https://en.wikipedia.org/wiki/OODA_loop#/media/File:OODA.Boyd.svg)
+![Original OODA Loop](https://upload.wikimedia.org/wikipedia/commons/3/3a/OODA.Boyd.svg)
 
 #### The sketched OODA Loop
 ![Compass](images/OODAoriginal.png)  
