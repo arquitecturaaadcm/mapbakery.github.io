@@ -38,4 +38,6 @@ I always use a compass to check my maps. But we can't use a real compass when we
 ![Original OODA Loop](https://upload.wikimedia.org/wikipedia/commons/3/3a/OODA.Boyd.svg)
 
 #### The sketched OODA Loop
+In my sketch I don't include all implicit guidance and feedback arrows from the full OODA diagram. And I don't include the Observe/Orient/Decide/Act texts. So less arrows without compromising [the intention of the OODA loop](https://www.artofmanliness.com/articles/ooda-loop/):
+
 ![Compass](images/OODAoriginal.png)  
