@@ -57,5 +57,14 @@ The Change-mapping book describes a number of roles, and I combine these three r
 - Pathfinder: keep the mission on track
 - Observer: write down the ideas, information and insights
 
+This fits with this quote from John R. Boyd:
 
+>We gotta get an image or picture in our head, which we call orientation. 
+>Then we have to make a decision as to what we’re going to do, and then implement the decision….
+>Then we look at the [resulting] action, plus our observation, 
+>and we drag in new data, new orientation, new decision, new action, ad infinitum…
+
+So my role (added value) can easily be plotted on the OODA loop:
+
+![Change-mapping](OODAconsultingservices.png)
 
