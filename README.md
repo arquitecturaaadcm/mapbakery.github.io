@@ -71,3 +71,13 @@ So my role (added value) can easily be plotted (in green) on the OODA loop:
 
 ![Change-mapping](images/OODAconsultingservices.png)
 
+### Personal qualities
+- Velocity/Speed:  Ability to think, act, move, and make good decisions faster
+- Visibility/Transparency:  Ability to communicate with openness, clarity, and veracity 
+- Adaptability:  Ability to change missions, functions, and tasks rapidly
+- Collaboration:  Ability to work across organizational silos and structures
+- Innovation:  Ability to imagine, design, iterate, and implement new solutions
+- Humility:  Ability to be honest about deficiencies in order to correct them
+- Trust:  Ability to be reliable, dependable, and build confidence
+- Skepticism:  Ability to think beyond the obvious; not accept things 
+at face value
