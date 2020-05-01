@@ -66,5 +66,5 @@ This fits with this quote from John R. Boyd:
 
 So my role (added value) can easily be plotted on the OODA loop:
 
-![Change-mapping](OODAconsultingservices.png)
+![Change-mapping](images/OODAconsultingservices.png)
 
