@@ -79,3 +79,6 @@ So my role (added value) can easily be plotted (in green) on the OODA loop:
 - Trust:  Ability to be reliable, dependable, and build confidence
 - Skepticism:  Ability to think beyond the obvious; not accept things at face value
 - Curious: The will to keep learning from others
+
+### Contact
+You can contact me on [Twitter](https://twitter.com/mapbakery)
