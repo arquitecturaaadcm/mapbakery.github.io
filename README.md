@@ -102,13 +102,13 @@ One of my ancestors is Arent Roggeveen who was a navigator and mapmaker. He work
 
 ![Change-mapping](images/burningfen1675.png)
 
-This was the first pilot guide to show the entire coastline of North America on a large scale, and one of the first to name the island of Manhattan. It was published by Pieter Goos in 1675.
+This was the first pilot guide, published by Pieter Goos in 1675, to show the entire coastline of North America on a large scale, and one of the first to name the island of Manhattan on this beautiful and detailed chart of the Manhattan, New Jersey and Long Island area, extending to Rhode Island and Martha's Vineyard. The Hamptons is labelled 'Hanton'. Manhattan (spelled 'Manhattans') sausage-shaped and shows the fort of New Amsterdam. Staten Island is mis-shapen and Harlem river is rather wide.
 
 
 ![Change-mapping](images/Manhattan.jpg)
 *Pascaerte van Nieu Nederland, Steckende vande Züydt Revier tot de Noordt Revier en't Lange Eÿland.
-Author ROGGEVEEN, Arent*
-A beautiful and detailed chart of the Manhattan, New Jersey and Long Island area, extending to Rhode Island and Martha's Vineyard. The Hamptons is labelled 'Hanton'. Manhattan (spelled 'Manhattans') sausage-shaped and shows the fort of New Amsterdam. Staten Island is mis-shapen and Harlem river is rather wide.
+Author Roggeveen, Arent*
+
 
 
 ### Contact
