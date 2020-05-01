@@ -44,7 +44,13 @@ The letters OODA stand for:
 #### The sketched OODA Loop
 In my sketch I don't include all implicit guidance and feedback arrows from the full OODA diagram. And I don't include the Observe/Orient/Decide/Act texts. So less arrows without compromising [the intention of the OODA loop](https://www.artofmanliness.com/articles/ooda-loop/):
 
-![Compass](images/OODAoriginal.png) 
+![The OODA Loop](images/OODAoriginal.png) 
+
+## Continuous everything....
+
+
+![Continuous](images/Diagram.png)
+
 
 ## Change-mapping tiny-review
 
