@@ -46,13 +46,13 @@ In my sketch I don't include all implicit guidance and feedback arrows from the 
 
 ![The OODA Loop](images/OODAoriginal.png) 
 
-## Continuous everything....
+## Continuous everything...
 
 
 ![Continuous](images/Diagram.png)
 
 
-## Continuous everything....
+## Orienteering...
 
 
 ![Orienteering](images/Orienteering.png)
