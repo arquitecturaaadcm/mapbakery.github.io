@@ -95,6 +95,12 @@ So my role (added value) can easily be plotted (in green) on the OODA loop:
 - Skepticism:  Ability to think beyond the obvious; not accept things at face value
 - Curious: The will to keep learning from others
 
+### Mapmaker's genes
+One of my ancestors is Arent Roggeveen who was a navigator and mapmaker. He moved to Middelburg in 1658, which at the time was the seat of . He worked for both the Dutch West and East India Companies companies teaching navigation and overseeing their collection of maps. He began to create and compile charts of West Indies and North America in the 1660s, using the work of earlier cartographers including Hessel Gerritsz and Joan Vingboons. The collection was called ‘Het Brandede Veen’, meaning ‘The Burning Fen’, a play on his name: fen was often used to create warning beacons on coasts for ships. This was the first pilot guide to show the entire coastline of North America on a large scale, and one of the first to name the island of Manhattan. It was published by Pieter Goos in 1675.
+
+![Change-mapping](images/burningfen1675.png)
+
+
 ### Contact
 You can contact me on [Twitter](https://twitter.com/mapbakery)
 
