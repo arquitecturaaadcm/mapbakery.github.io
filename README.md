@@ -52,6 +52,12 @@ In my sketch I don't include all implicit guidance and feedback arrows from the 
 ![Continuous](images/Diagram.png)
 
 
+## Continuous everything....
+
+
+![Orienteering](images/Orienteering.png)
+
+
 ## Change-mapping tiny-review
 
 
