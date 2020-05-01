@@ -29,10 +29,13 @@ I always use a compass to check my maps. But we can't use a real compass when we
 
 ### The OODA Loop
 
-- Observe: This is the part in which you use your eyes and ears to observe, to scan the environment 
-- Orient: Then you try to understand (evaluate) your situation in relation to what you scanned. And what routes you can take to reach your (next) control point. 
-- Decide: Based on your orientation you choose what you think is the best possible next step that you wlll take 
-- Act: And then you take that next step…
+Boyd referred to the OODA loop as “the big squeeze,” the ultimate compression of his ideas. It is a synthesis of all that Boyd had learned from his early “Aerial Attack Study” to his later interests in coevolution, sociobiology, genetic engineering, chaos, and complexity. For Boyd, OODA Loops are a composite of how we think and learn, the source of who we are, and the potential we possess. It is a profoundly simple explanation of the nearly infinite variety that is possible. It is a shorthand for life itself, **a model for how we think**, and the means by which we both compete and collaborate.
+
+The letters OODA stand for:
+- **O**bserve: This is the part in which you use your eyes and ears to observe, to scan the environment 
+- **O**rient: Then you try to understand (evaluate) your situation in relation to what you scanned. And what routes you can take to reach your (next) control point. 
+- **D**ecide: Based on your orientation you choose what you think is the best possible next step that you wlll take 
+- **A**ct: And then you take that next step…
 
 #### The original OODA Loop diagram
 ![Original OODA Loop](https://upload.wikimedia.org/wikipedia/commons/3/3a/OODA.Boyd.svg)
