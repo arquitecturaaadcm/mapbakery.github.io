@@ -29,7 +29,7 @@ I always use a compass to check my maps. But we can't use a real compass when we
 
 ### The OODA Loop
 
-Boyd referred to the OODA loop as “the big squeeze,” the ultimate compression of his ideas. It is a synthesis of all that Boyd had learned from his early “Aerial Attack Study” to his later interests in coevolution, sociobiology, genetic engineering, chaos, and complexity. For Boyd, OODA Loops are a composite of how we think and learn, the source of who we are, and the potential we possess. It is a profoundly simple explanation of the nearly infinite variety that is possible. It is a shorthand for life itself, **a model for how we think**, and the means by which we both compete and collaborate.
+[Boyd](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.PDF) referred to the OODA loop as “the big squeeze,” the ultimate compression of his ideas. It is a synthesis of all that Boyd had learned from his early “Aerial Attack Study” to his later interests in coevolution, sociobiology, genetic engineering, chaos, and complexity. For Boyd, OODA Loops are a composite of how we think and learn, the source of who we are, and the potential we possess. It is a profoundly simple explanation of the nearly infinite variety that is possible. It is a shorthand for life itself, **a model for how we think**, and the means by which we both compete and collaborate.
 
 The letters OODA stand for:
 - **O**bserve: This is the part in which you use your eyes and ears to observe, to scan the environment 
