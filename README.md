@@ -49,4 +49,4 @@ In my sketch I don't include all implicit guidance and feedback arrows from the 
 
 The [Change-mapping book by Tom Graves book](http://weblog.tetradian.com/2020/02/09/on-change-mapping-books-and-more/) is very "Unflattening", more meets the eye than is presented on the page.
 
-** Note: Unflattening is a reference to the [Unflattening](https://hup.harvard.edu/catalog.php?isbn=9780674744431) book **
+*Note: Unflattening is a reference to the [Unflattening](https://hup.harvard.edu/catalog.php?isbn=9780674744431) book*
