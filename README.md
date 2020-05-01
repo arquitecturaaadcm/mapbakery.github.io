@@ -52,12 +52,12 @@ The [Change-mapping book by Tom Graves book](http://weblog.tetradian.com/2020/02
 *Note: Unflattening is a reference to the [Unflattening](https://hup.harvard.edu/catalog.php?isbn=9780674744431) book*
 
 ## My role
-The Change-mapping book describes a number of roles, and I combine these three roles from the list in the book in my daily work:
+The [Change-mapping](https://github.com/mapbakery/mapbakery.github.io/blob/master/README.md#change-mapping-tiny-review) book describes a number of roles, and I combine these three roles from the list in the book in my daily work:
 - Explorer: capture ideas, information and insights about the issue which the mission is trying to explore or resolve
 - Pathfinder: keep the mission on track
 - Observer: write down the ideas, information and insights
 
-This fits with this quote from John R. Boyd:
+This fits with this quote from [John R. Boyd](https://github.com/mapbakery/mapbakery.github.io/blob/master/README.md#the-ooda-loop):
 
 >We gotta get an image or picture in our head, which we call orientation. 
 >Then we have to make a decision as to what we’re going to do, and then implement the decision….
