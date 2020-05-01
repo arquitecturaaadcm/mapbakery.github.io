@@ -50,3 +50,12 @@ In my sketch I don't include all implicit guidance and feedback arrows from the 
 The [Change-mapping book by Tom Graves book](http://weblog.tetradian.com/2020/02/09/on-change-mapping-books-and-more/) is very "Unflattening", more meets the eye than is presented on the page.
 
 *Note: Unflattening is a reference to the [Unflattening](https://hup.harvard.edu/catalog.php?isbn=9780674744431) book*
+
+## My role
+The Change-mapping book describes a number of roles, and I combine these three roles from the list in the book in my daily work:
+- Explorer: capture ideas, information and insights about the issue which the mission is trying to explore or resolve
+- Pathfinder: keep the mission on track
+- Observer: write down the ideas, information and insights
+
+
+
