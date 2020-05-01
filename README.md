@@ -83,4 +83,4 @@ So my role (added value) can easily be plotted (in green) on the OODA loop:
 ### Contact
 You can contact me on [Twitter](https://twitter.com/mapbakery)
 
-![Change-mapping](images/twitterprofile.png)
+[![@Mapbakery](images/twitterprofile.png)](https://twitter.com/mapbakery)
