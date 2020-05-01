@@ -40,4 +40,10 @@ I always use a compass to check my maps. But we can't use a real compass when we
 #### The sketched OODA Loop
 In my sketch I don't include all implicit guidance and feedback arrows from the full OODA diagram. And I don't include the Observe/Orient/Decide/Act texts. So less arrows without compromising [the intention of the OODA loop](https://www.artofmanliness.com/articles/ooda-loop/):
 
-![Compass](images/OODAoriginal.png)  
+![Compass](images/OODAoriginal.png) 
+
+## Change-mapping tiny-review
+
+Change-mapping is a 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Change-mapping by <a href="https://twitter.com/tetradian?ref_src=twsrc%5Etfw">@tetradian</a> has arrived :-) <a href="https://t.co/hYkjb09qfO">pic.twitter.com/hYkjb09qfO</a></p>&mdash; Peter Bakker (@mapbakery) <a href="https://twitter.com/mapbakery/status/1255919369881780226?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The book is very "Unflattening", more meets the eye than is presented on the page (this is a reference to the intro page for the [Unflattening(]https://hup.harvard.edu/catalog.php?isbn=9780674744431) book)
