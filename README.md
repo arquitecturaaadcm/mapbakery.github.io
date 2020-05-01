@@ -64,7 +64,7 @@ This fits with this quote from John R. Boyd:
 >Then we look at the [resulting] action, plus our observation, 
 >and we drag in new data, new orientation, new decision, new action, ad infinitum…
 
-So my role (added value) can easily be plotted on the OODA loop:
+So my role (added value) can easily be plotted (in green) on the OODA loop:
 
 ![Change-mapping](images/OODAconsultingservices.png)
 
