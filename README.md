@@ -85,16 +85,28 @@ There were three Twitter conversations that triggered me to make my own version 
 3. tweets about the value of map making:
 >![Simple sketched maps](images/simplemapstweets.png)
 
-After reading those and after a night sleep I decided to make my own version of the OODA loop to better understand the decision-making and learning processes by using maps. I must not that I work (for twenty years now) as an IT/infrastruction/Solution Architect. For the peopel who know the Cynefin framework, for my work I live almost only in the Obvious and Complicated areas.
+After reading those and after a night sleep I decided to make my own version of the OODA loop to better understand the decision-making and learning processes when using maps as primary source for the communication within change projects. I must note that I work (for twenty years now) as an IT/infrastruction/Solution Architect. For the people who know the Cynefin framework, for my work I live almost only in the Obvious and Complicated areas.
+
 My version of the OODA loop has become the MODA loop:
 
 ![MODA](images/MODA.png)
 
 I've changed the following things in my SMODA loop compared to the original OODA loop:
 
-* I've replaced Observe with Sketch Map. To be able to sketch you must be a good observer so it is not logical to divide those two. 
-* I made it look like a transit diagram by removing the feedback and implicit guidance arrows. Every thing is connect now like in Harry Beck's London Underground map. Like in the London Underground you can start where you want and go from every point to every other point. And you can skip intermediate points if you want.
-* I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. the folder where sketched maps are stored.
+* I've replaced Observe with Map. To be able to map you must be a good observer and sketcher. 
+* I made it look like a subway diagram by removing the feedback and implicit guidance arrows. Like in the London Underground you can start where you want and go from every point to every other point. And you can skip intermediate points if you want.
+* I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. a folder where sketched maps are stored. This concept is borrowed from the OODA loop example in Tom Graves his Change-mapping book.
+
+The MODE has 5 line which will be described in the following paragraphs.
+
+#### Directing
+
+Directing is the black main line:
+
+![MODA](images/Directing.png)
+
+
+####
 
 ---
 
