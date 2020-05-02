@@ -131,7 +131,7 @@ Changing is the blue line:
 
 Surprising is the orange line:
 
-![MODA](images/Surpriing.png)
+![MODA](images/Surprising.png)
 
 ---
 
