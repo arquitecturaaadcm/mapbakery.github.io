@@ -106,7 +106,32 @@ Directing is the black main line:
 ![MODA](images/Directing.png)
 
 
-####
+#### Mapping
+
+Directing is the red line:
+
+![MODA](images/Mapping.png)
+
+
+#### Learning
+
+Directing is the green line:
+
+![MODA](images/Learning.png)
+
+
+#### Changing
+
+Directing is the blue line:
+
+![MODA](images/Changing.png)
+
+
+#### Surprising
+
+Surprising is the orange line:
+
+![MODA](images/Surpriing.png)
 
 ---
 
