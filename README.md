@@ -86,14 +86,29 @@ So my role (added value) can easily be plotted (in green) on the OODA loop:
 
 Or even better, I made my own version of the OODA loop, the SMODA loop
 
-### the SMODA loop
+### the S(M)ODA loop
 
-There were two Twitter converstaions that triggered me to make my own version of the OODA loop:
+There were three Twitter conversations that triggered me to make my own version of the OODA loop:
 
-1. the first was a tweet by Simon Brown and a reply on it by Grady Booch that teams must be able to sketch their own architectures:
+1. tweets about the value of sketching:
 >![Sketch before modeling](images/UMLC4sketch.png)
-2. the second was a tweet by Simon Brown and a reply on it by Grady Booch that teams must be able to sketch their own architectures:
->![Sketch before modeling](images/UMLC4sketch.png)
+
+2. tweets about the relation between the OODA loop and Change-mapping:
+>![OODA and Chage-mapping](images/OODAchangemappingtweets.png)
+
+3. tweets about the value of map making:
+>![Simple sketched maps](images/simplemapstweets.png)
+
+After reading those and after a night sleep I decided to make my own version of the OODA loop. That ha sbecome the SODA or SMODA loop:
+
+![SMODA](images/SODA.png)
+
+SODA was the original name for the ODAA loop:
+
+>When Boyd first developed the idea, “sensing” was used instead of “observation.” But “SODA Loops” didn’t pass the giggle test, as Boyd said.
+
+So I think I will stick with SMODA, also because it represents my way of working more clearly.
+
 ### My personal qualities
 - Velocity/Speed:  Ability to think, act, move, and make good decisions faster by using simple tools and methos
 - Visibility/Transparency:  Ability to communicate with openness and clarity with simple sketches 
