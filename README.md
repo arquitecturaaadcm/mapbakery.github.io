@@ -84,6 +84,16 @@ So my role (added value) can easily be plotted (in green) on the OODA loop:
 
 ![Change-mapping](images/OODAconsultingservices.png)
 
+Or even better, I made my own version of the OODA loop, the SMODA loop
+
+### the SMODA loop
+
+There were two Twitter converstaions that triggered me to make my own version of the OODA loop:
+
+1. the first was a tweet by Simon Brown and a reply on it by Grady Booch that teams must be able to sketch their own architectures:
+>![Sketch before modeling](images/UMLC4sketch.png)
+2. the second was a tweet by Simon Brown and a reply on it by Grady Booch that teams must be able to sketch their own architectures:
+>![Sketch before modeling](images/UMLC4sketch.png)
 ### My personal qualities
 - Velocity/Speed:  Ability to think, act, move, and make good decisions faster by using simple tools and methos
 - Visibility/Transparency:  Ability to communicate with openness and clarity with simple sketches 
