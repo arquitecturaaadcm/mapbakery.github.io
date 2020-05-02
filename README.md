@@ -91,7 +91,7 @@ My version of the OODA loop has become the MODA loop:
 
 ![MODA](images/MODA.png)
 
-I've changed the following things in my SMODA loop compared to the original OODA loop:
+I've changed the following things in my MODA loop compared to the original OODA loop:
 
 * I've replaced Observe with Map. To be able to map you must be a good observer and sketcher. 
 * I made it look like a subway diagram by removing the feedback and implicit guidance arrows. Like in the London Underground you can start where you want and go from every point to every other point. And you can skip intermediate points if you want.
