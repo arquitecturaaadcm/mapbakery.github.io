@@ -72,7 +72,7 @@ The [Change-mapping book by Tom Graves book](http://weblog.tetradian.com/2020/02
 
 ---
 
-### the SMODA loop
+### the MODA loop
 
 There were three Twitter conversations that triggered me to make my own version of the OODA loop:
 
@@ -85,9 +85,10 @@ There were three Twitter conversations that triggered me to make my own version 
 3. tweets about the value of map making:
 >![Simple sketched maps](images/simplemapstweets.png)
 
-After reading those and after a night sleep I decided to make my own version of the OODA loop. That has become the SMODA loop:
+After reading those and after a night sleep I decided to make my own version of the OODA loop to better understand the decision-making and learning processes by using maps. I must not that I work (for twenty years now) as an IT/infrastruction/Solution Architect. For the peopel who know the Cynefin framework, for my work I live almost only in the Obvious and Complicated areas.
+My version of the OODA loop has become the MODA loop:
 
-![SMODA](images/SODA.png)
+![MODA](images/MODA.png)
 
 I've changed the following things in my SMODA loop compared to the original OODA loop:
 
