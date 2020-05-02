@@ -99,15 +99,15 @@ There were three Twitter conversations that triggered me to make my own version 
 3. tweets about the value of map making:
 >![Simple sketched maps](images/simplemapstweets.png)
 
-After reading those and after a night sleep I decided to make my own version of the OODA loop. That ha sbecome the SODA or SMODA loop:
+After reading those and after a night sleep I decided to make my own version of the OODA loop. That has become the SMODA loop:
 
 ![SMODA](images/SODA.png)
 
-SODA was the original name for the ODAA loop:
+I've changed the following things in my SMODA loop compared to the original OODA loop:
 
->When Boyd first developed the idea, “sensing” was used instead of “observation.” But “SODA Loops” didn’t pass the giggle test, as Boyd said.
-
-So I think I will stick with SMODA, also because it represents my way of working more clearly.
+* I've replaced Observe with Sketch Map. To be able to sketch you must be a good observer so it is not logical to divide those two. 
+* I made it look like a transit diagram by removing the feedback and implicit guidance arrows. Every thing is connect now like in Harry Beck's London Underground map. Like in the London Underground you can start where you want and go from every point to every other point. And you can skip intermediate points if you want.
+* I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. the folder where sketched maps are stored.
 
 ### My personal qualities
 - Velocity/Speed:  Ability to think, act, move, and make good decisions faster by using simple tools and methos
