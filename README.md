@@ -108,21 +108,21 @@ Directing is the black main line:
 
 #### Mapping
 
-Directing is the red line:
+Mapping is the red line:
 
 ![MODA](images/Mapping.png)
 
 
 #### Learning
 
-Directing is the green line:
+Learning is the green line:
 
 ![MODA](images/Learning.png)
 
 
 #### Changing
 
-Directing is the blue line:
+Changing is the blue line:
 
 ![MODA](images/Changing.png)
 
