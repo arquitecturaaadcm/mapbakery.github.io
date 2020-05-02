@@ -28,6 +28,8 @@ I always use a compass to check my maps. But we can't use a real compass when we
 
 ![Compass](images/compass.png)  
 
+---
+
 ## The OODA Loop
 
 [Boyd](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.PDF) referred to the OODA loop as “the big squeeze,” the ultimate compression of his ideas. It is a synthesis of all that Boyd had learned from his early “Aerial Attack Study” to his later interests in coevolution, sociobiology, genetic engineering, chaos, and complexity. For Boyd, OODA Loops are a composite of how we think and learn, the source of who we are, and the potential we possess. It is a profoundly simple explanation of the nearly infinite variety that is possible. It is a shorthand for life itself, **a model for how we think**, and the means by which we both compete and collaborate.
@@ -46,6 +48,8 @@ In my sketch I don't include all implicit guidance and feedback arrows from the 
 
 ![The OODA Loop](images/OODAoriginal.png) 
 
+---
+
 ## Continuous everything...
 
 
@@ -57,6 +61,7 @@ In my sketch I don't include all implicit guidance and feedback arrows from the 
 
 ![Orienteering](images/Orienteering.png)
 
+---
 
 ## Change-mapping tiny-review
 
@@ -67,26 +72,9 @@ The [Change-mapping book by Tom Graves book](http://weblog.tetradian.com/2020/02
 
 *Note: Unflattening is a reference to the [Unflattening](https://hup.harvard.edu/catalog.php?isbn=9780674744431) book*
 
-## My role
-The [Change-mapping](https://github.com/mapbakery/mapbakery.github.io/blob/master/README.md#change-mapping-tiny-review) book describes a number of roles, and I combine these three roles from the list in the book in my daily work:
-- Explorer: capture ideas, information and insights about the issue which the mission is trying to explore or resolve
-- Pathfinder: keep the mission on track
-- Observer: write down the ideas, information and insights
+---
 
-This fits with this quote from [John R. Boyd](https://github.com/mapbakery/mapbakery.github.io/blob/master/README.md#the-ooda-loop):
-
->We gotta get an image or picture in our head, which we call orientation. 
->Then we have to make a decision as to what we’re going to do, and then implement the decision….
->Then we look at the [resulting] action, plus our observation, 
->and we drag in new data, new orientation, new decision, new action, ad infinitum…
-
-So my role (added value) can easily be plotted (in green) on the OODA loop:
-
-![Change-mapping](images/OODAconsultingservices.png)
-
-Or even better, I made my own version of the OODA loop, the SMODA loop
-
-### the S(M)ODA loop
+### the SMODA loop
 
 There were three Twitter conversations that triggered me to make my own version of the OODA loop:
 
@@ -109,7 +97,27 @@ I've changed the following things in my SMODA loop compared to the original OODA
 * I made it look like a transit diagram by removing the feedback and implicit guidance arrows. Every thing is connect now like in Harry Beck's London Underground map. Like in the London Underground you can start where you want and go from every point to every other point. And you can skip intermediate points if you want.
 * I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. the folder where sketched maps are stored.
 
-### My personal qualities
+---
+
+## My role
+
+The [Change-mapping](https://github.com/mapbakery/mapbakery.github.io/blob/master/README.md#change-mapping-tiny-review) book describes a number of roles, and I combine these three roles from the list in the book in my daily work:
+- Explorer: capture ideas, information and insights about the issue which the mission is trying to explore or resolve
+- Pathfinder: keep the mission on track
+- Observer: write down the ideas, information and insights
+
+This fits with this quote from [John R. Boyd](https://github.com/mapbakery/mapbakery.github.io/blob/master/README.md#the-ooda-loop):
+
+>We gotta get an image or picture in our head, which we call orientation. 
+>Then we have to make a decision as to what we’re going to do, and then implement the decision….
+>Then we look at the [resulting] action, plus our observation, 
+>and we drag in new data, new orientation, new decision, new action, ad infinitum…
+
+So my role (added value) can easily be plotted (in green) on the OODA loop:
+
+![Change-mapping](images/OODAconsultingservices.png)
+
+## My personal qualities
 - Velocity/Speed:  Ability to think, act, move, and make good decisions faster by using simple tools and methos
 - Visibility/Transparency:  Ability to communicate with openness and clarity with simple sketches 
 - Adaptability:  Ability to change focus areas and tasks rapidly
@@ -120,7 +128,7 @@ I've changed the following things in my SMODA loop compared to the original OODA
 - Skepticism:  Ability to think beyond the obvious; not accept things at face value
 - Curious: The will to keep learning from others
 
-### Mapmaker's genes
+## Mapmaker's genes
 One of my ancestors is Arent Roggeveen who was a navigator and mapmaker. He worked for both the Dutch West and East India Companies companies teaching navigation and overseeing their collection of maps. He began to create and compile charts of West Indies and North America in the 1660s, using the work of earlier cartographers including Hessel Gerritsz and Joan Vingboons. The collection was called ‘Het Brandede Veen’, meaning ‘The Burning Fen’, a play on his name: fen was often used to create warning beacons on coasts for ships.
 
 ![Change-mapping](images/roggeveen.jpg)
@@ -134,9 +142,9 @@ This was the first pilot guide, published by Pieter Goos in 1675, to show the en
 *Pascaerte van Nieu Nederland, Steckende vande Züydt Revier tot de Noordt Revier en't Lange Eÿland.
 Author Roggeveen, Arent*
 
+---
 
-
-### Contact
+## Contact
 You can contact me on [Twitter](https://twitter.com/mapbakery)
 
 [![@Mapbakery](images/twitterprofile.png)](https://twitter.com/mapbakery)
