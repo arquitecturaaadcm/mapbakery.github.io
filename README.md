@@ -26,7 +26,9 @@ I've changed the following things in my MODA map compared to the original OODA l
 * I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. a folder where sketched maps are stored. This concept is borrowed from the OODA loop example in <a href="http://weblog.tetradian.com/2020/02/09/on-change-mapping-books-and-more/">Tom Graves his Change-mapping book</a>.
 * I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. a folder where sketched maps are stored. This concept is borrowed from the OODA loop example in [Tom Graves his Change-mapping book](http://weblog.tetradian.com/2020/02/09/on-change-mapping-books-and-more/).
 
-The MODE map has 5 different colored lines which will be described in the following paragraphs.
+The MODE map has 5 different colored lines which will be described in the following paragraphs. For the descriptions I will use this very common starting question I often get:
+
+> I need to get file to THERE, can you help?
 
 #### Directing
 
