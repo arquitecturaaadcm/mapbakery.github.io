@@ -24,7 +24,7 @@ I've changed the following things in my MODA map compared to the original OODA l
 * I've replaced Observe with Map. To be able to map you must be a good observer and sketcher. 
 * I made it look like a subway diagram by removing the feedback and implicit guidance arrows. Like in the London Underground you can start where you want and go from every point to every other point. And you can skip intermediate points if you want. So it's not longer a loop but a undirected graph.
 * I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. a folder where sketched maps are stored. This concept is borrowed from the OODA loop example in <a href="http://weblog.tetradian.com/2020/02/09/on-change-mapping-books-and-more/">Tom Graves his Change-mapping book</a>.
-* I've added a feature called Patterns. This is a kind of library which can be internal in the heads of people or external, e.g. a folder where sketched maps are stored. This concept is borrowed from the OODA loop example in [Tom Graves his Change-mapping book](http://weblog.tetradian.com/2020/02/09/on-change-mapping-books-and-more/).
+
 
 The MODE map has 5 different colored lines which will be described in the following paragraphs. For the descriptions I will use this very common starting question I often get:
 
@@ -62,7 +62,7 @@ Learning is the green line:
 
 ![MODA](images/Learning.png)
 
-In the situatuations 2 and 3 it might be possible that we can't use existing file transfer patterns. in that case we must follow the green line to get a new pattern approved. And perhaps actions are needed to change the environment to support the new pattern. Another possibility is that there are patterns I'm not aware of and who are new for me. In that case I must perhaps talk to people responsible for such a pattern to help me decide what needst to be done before we can take action to use the pattern for our purposes. For the communication I will use the map I have and I will adapt the map to the pattern if I know more about it.
+In the situatuations 2 and 3 I mentiond in the above Mapping paragraph it might be possible that we can't use existing file transfer patterns. in that case we must follow the green line to get a new pattern approved. And perhaps actions are needed to change the environment to support the new pattern. Another possibility is that there are patterns I'm not aware of and who are new for me. In that case I must perhaps talk to people responsible for such a pattern to help me decide what needst to be done before we can take action to use the pattern for our purposes. For the communication I will use the map I have and I will adapt the map to the pattern if I know more about it.
 
 #### Changing
 
@@ -70,7 +70,7 @@ Changing is the blue line:
 
 ![MODA](images/Changing.png)
 
-When the map, the location(s) and the directions are known it's time to set the change into action. Most technical specialist will be temporarily involved for just a few task. They can use the map and directions to understand the context for their tasks. Sometimes things (the unfolding interactions and/or unfolding environment) don't work as anticipated or take things take to long. in that case we must go back to the map and see if we have other locations/directions we can use.
+When the map, the location(s) and the directions are known it's time to set the change into action. Most technical specialists will be temporarily involved for just a few tasks. They can use the map and directions to understand the context for their tasks. Sometimes things (the unfolding interactions and/or unfolding environment) don't work as anticipated or take things take to long. in that case we must go back to the map and see if we have other locations/directions we can use.
 
 
 #### Surprising
