@@ -50,13 +50,11 @@ Mapping is the red line:
 Often I don't immediately recognize the HERE or the THERE and then I must first explore what the locations are of the HERE and THERE. If I'm lucky the person who asks the question knows the answer. Let's assume that's the case then I still need more outside information before I can make a map because we can have a lot of different situations e.g.:
 
 1. The HERE and THERE both exists but THERE is an external application.
-2. The HERE exists but will be moved to another platform soon (exact date is still unknown)
-3. The THERE exists but will be moved to another platform soon (exact date is still unknown)
-4. The HERE and THERE exist but will both be moved to other platforms soon (exact dates and platforms are still unknown)
-5. The HERE exists but the THERE is under design.
+2. The HERE exists but will be moved to another platform soon (exact date when it goes into production on the new platform is still unknown)
+3. The HERE exists but the THERE is under design.
 
-For situation 1 I must look at the patterns, for situation 2,3 and 4 I must know more about the unfolding interactions. For example I would like know if the new target platform already bult or still under design, perhaps I need to make an intermediate map and an end-state map with different directions). If the target plaform already is being built I must know more about the unfolding environment. What is the planning, can we already prepare things or maybe already do technical tests?
-For situation 5 I need to know more about the unfolding interactions. How far is the design, will it support standard file transfer patterns? Can we influence their design (and their map, decisions, action and unfolding interactions)?
+For situation 1 I must look at the patterns, for situation 2 I must know more about the unfolding interactions and unfolding environment. For example I would like know if the new target platform already built or still just under design. Probably I need to make an intermediate map and an end-state map with different directions. If the target plaform already is being built I must know more about the unfolding environment. What is the planning, can we already prepare things or maybe already do technical tests? And is the new platform still supporting our standard file transfer standards?
+For situation 3 I need to know more about the unfolding interactions. How far is the design, will it support standard file transfer patterns? Can we influence their design (and their map, decisions, action and unfolding interactions)?
 
 #### Learning
 
@@ -64,6 +62,7 @@ Learning is the green line:
 
 ![MODA](images/Learning.png)
 
+In the situatuations 2 and 3 it might be possible that we can't use existing file transfer patterns. in that case we must follow the green line to get a new pattern approved. And perhaps actions are needed to change the environment to support the new pattern. Another possibility is that there are patterns I'm not aware of and who are new for me. In that case I must perhaps talk to people responsible for such a pattern to help me decide what needst to be done before we can take action to use the pattern for our purposes. For the communication I will use the map I have and I will adapt the map to the pattern if I know more about it.
 
 #### Changing
 
@@ -71,12 +70,16 @@ Changing is the blue line:
 
 ![MODA](images/Changing.png)
 
+When the map, the location(s) and the directions are known it's time to set the change into action. Most technical specialist will be temporarily involved for just a few task. They can use the map and directions to understand the context for their tasks. Sometimes things (the unfolding interactions and/or unfolding environment) don't work as anticipated or take things take to long. in that case we must go back to the map and see if we have other locations/directions we can use.
+
 
 #### Surprising
 
 Surprising is the orange line:
 
 ![MODA](images/Surprising.png)
+
+Surprising can be all things which happen outside our control and we couldn't or didn't anticipate. Sometimes patterns are suddenly not supported any longer or sometimes there is a life-cycle management project which impact our unfolding environment (and perhaps our map). 
 
 ---
 
