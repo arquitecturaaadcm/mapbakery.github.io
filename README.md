@@ -28,7 +28,7 @@ I've changed the following things in my MODA map compared to the original OODA l
 
 The MODE map has 5 different colored lines which will be described in the following paragraphs. For the descriptions I will use this very common starting question I often get:
 
-> I need to get file to THERE, can you help?
+> I need to get files to THERE, can you help?
 
 #### Directing
 
@@ -36,6 +36,12 @@ Directing is the black main line:
 
 ![MODA](images/Directing.png)
 
+So most of the time the first outside information is a question from somebody looking for help to get someting done, in this case sending files to THERE. To answer the question I need more information. Especially who or what will provide the files which must be send to THERE. If that question is answered I have my HERE. Sometimes this info is enough to recognize that we have a standard pattern for this. So I draw a simple map with the HERE and THERE and information via which procedures the file transfer can be implemented. The person who asked the question can use this to get the file transfer implemented. My involvement stops here.
+
+Most people who come with the same question expect that it alwasy be so obvious, but unfortunately that is not the case. That will become clear from the descriptions of the other lines.
+
+
+(I will use HERE and THERE instead of fictive application names)
 
 #### Mapping
 
