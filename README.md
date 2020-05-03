@@ -47,13 +47,16 @@ Mapping is the red line:
 
 ![MODA](images/Mapping.png)
 
-Often I don't immediately recognize the HERE or the THERE and then I must first explore what the locations are of the HERE and THERE. If I'm lucky the person who asks the question knows the answer. Let's assume that's the case then we still can have a number of scenario's:
+Often I don't immediately recognize the HERE or the THERE and then I must first explore what the locations are of the HERE and THERE. If I'm lucky the person who asks the question knows the answer. Let's assume that's the case then I still need more outside information before I can make a map because we can have a lot of different situations e.g.:
 
 1. The HERE and THERE both exists but THERE is an external application.
 2. The HERE exists but will be moved to another platform soon (exact date is still unknown)
 3. The THERE exists but will be moved to another platform soon (exact date is still unknown)
 4. The HERE and THERE exist but will both be moved to other platforms soon (exact dates and platforms are still unknown)
 5. The HERE exists but the THERE is under design.
+
+For situation 1 I must look at the patterns, for situation 2,3 and 4 I must know more about the unfolding interactions. For example I would like know if the new target platform already bult or still under design, perhaps I need to make an intermediate map and an end-state map with different directions). If the target plaform already is being built I must know more about the unfolding environment. What is the planning, can we already prepare things or maybe already do technical tests?
+For situation 5 I need to know more about the unfolding interactions. How far is the design, will it support standard file transfer patterns? Can we influence their design (and their map, decisions, action and unfolding interactions)?
 
 #### Learning
 
