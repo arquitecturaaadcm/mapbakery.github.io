@@ -38,10 +38,8 @@ Directing is the black main line:
 
 So most of the time the first outside information is a question from somebody looking for help to get someting done, in this case sending files to THERE. To answer the question I need more information. Especially who or what will provide the files which must be send to THERE. If that question is answered I have my HERE. Sometimes this info is enough to recognize that we have a standard pattern for this. So I draw a simple map with the HERE and THERE and information via which procedures the file transfer can be implemented. The person who asked the question can use this to get the file transfer implemented. My involvement stops here.
 
-Most people who come with the same question expect that it alwasy be so obvious, but unfortunately that is not the case. That will become clear from the descriptions of the other lines.
+Most people who come with the same question expect that it always will be so obvious, but unfortunately that is not the case. That will become clear from the descriptions of the other lines.
 
-
-(I will use HERE and THERE instead of fictive application names)
 
 #### Mapping
 
@@ -49,6 +47,13 @@ Mapping is the red line:
 
 ![MODA](images/Mapping.png)
 
+Often I don't immediately recognize the HERE or the THERE and then I must first explore what the locations are of the HERE and THERE. If I'm lucky the person who asks the question knows the answer. Let's assume that's the case then we still can have a number of scenario's:
+
+1. The HERE and THERE both exists but THERE is an external application.
+2. The HERE exists but will be moved to another platform soon (exact date is still unknown)
+3. The THERE exists but will be moved to another platform soon (exact date is still unknown)
+4. The HERE and THERE exist but will both be moved to other platforms soon (exact dates and platforms are still unknown)
+5. The HERE exists but the THERE is under design.
 
 #### Learning
 
