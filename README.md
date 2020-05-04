@@ -15,7 +15,7 @@ This original loop is not very easy to transfer to a business environment, but b
 
 # The OODA Change-mapping Network
 
-![OODA Change-mapping Network](images/OODA Change-mapping.png)
+![OODA Change-mapping](images/OODA Change-mapping.png)
 
 --- 
 
