@@ -11,6 +11,11 @@ The letters OODA stand for:
 
 This original loop is not very easy to transfer to a business environment, but below are some sketches with ideas how this can be done. The ideas are based on dialogs and input from [Ruth Malan](https://twitter.com/ruthmalan), [Tom Graves](https://twitter.com/tetradian) and [Oliver Baier](https://twitter.com/OliverBaier).
 
+--- 
+
+# The OODA Change-mapping Network
+
+![OODA Change-mapping Network](images/OODA Change-mapping.png)
 
 --- 
 
