@@ -1,5 +1,3 @@
-# MODA: from here to there in an agile world
-
 [Boyd](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.PDF) referred to the OODA loop as “the big squeeze,” the ultimate compression of his ideas, the composite of how we think and learn.
 
 The letters OODA stand for:
@@ -10,6 +8,21 @@ The letters OODA stand for:
 
 ### The original OODA Loop diagram
 ![Original OODA Loop](https://upload.wikimedia.org/wikipedia/commons/3/3a/OODA.Boyd.svg)
+
+This original loop is not very easy to transfer to a business environment, but below are some sketches with ideas how this can be done. The ideas are based on dialogs and input from [Ruth Malan](https://twitter.com/ruthmalan), [Tom Graves](https://twitter.com/tetradian) and [Oliver Baier](https://twitter.com/OliverBaier).
+
+
+--- 
+
+# OODA(R)
+
+This is a proposal for an OODA loop including an additional review phase and a library where precedents can be stored:
+
+![OODA(R)](imagesOODA(R).png)
+
+---
+
+# MODA: from here to there in an agile world
 
 ## The MODA map
 
