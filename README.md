@@ -18,7 +18,7 @@ This original loop is not very easy to transfer to a business environment, but b
 
 This is a proposal for an OODA loop including an additional review phase and a library where precedents can be stored:
 
-![OODA(R)](imagesOODA(R).png)
+![OODA(R)](images/OODA(R).png)
 
 ---
 
