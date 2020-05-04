@@ -769,25 +769,6 @@
       "lastCommittedPoint": null
     },
     {
-      "id": "M0evhwlbzZx56lNWArNaT",
-      "type": "ellipse",
-      "x": 761.3333333333335,
-      "y": 824.6666666666665,
-      "width": 15.845454545454531,
-      "height": 14.81818181818081,
-      "angle": 0,
-      "strokeColor": "#e67700",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 4,
-      "roughness": 1,
-      "opacity": 100,
-      "seed": 617231167,
-      "version": 2026,
-      "versionNonce": 1411549482,
-      "isDeleted": false
-    },
-    {
       "id": "KgN4KY4xHWPrJ7qxj1i9M",
       "type": "ellipse",
       "x": 823.5454545454545,
@@ -1050,8 +1031,8 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1208118,
-      "version": 137,
-      "versionNonce": 997396598,
+      "version": 140,
+      "versionNonce": 453169014,
       "isDeleted": false,
       "text": "The OODA Change-mapping Network",
       "font": "36px Virgil",
@@ -1904,7 +1885,7 @@
     {
       "id": "qVMB9FoWJG9-Z8Tt6OtRH",
       "type": "text",
-      "x": 661.0909090909086,
+      "x": 660.5909090909086,
       "y": 1672.386363636363,
       "width": 227,
       "height": 32,
@@ -1916,8 +1897,8 @@
       "roughness": 1,
       "opacity": 100,
       "seed": 1013999606,
-      "version": 1993,
-      "versionNonce": 1983546218,
+      "version": 1994,
+      "versionNonce": 1324946230,
       "isDeleted": false,
       "text": "Unfolding circumstances",
       "font": "20px Virgil",
@@ -2970,6 +2951,210 @@
       "font": "20px Virgil",
       "textAlign": "left",
       "baseline": 343
+    },
+    {
+      "id": "Q60yDhchjDLZ_c_OGXhGo",
+      "type": "text",
+      "x": 1515.7777777777778,
+      "y": 2805.5,
+      "width": 0,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#495057",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 266534314,
+      "version": 6,
+      "versionNonce": 933692534,
+      "isDeleted": false,
+      "text": "",
+      "font": "20px Virgil",
+      "textAlign": "left",
+      "baseline": 23
+    },
+    {
+      "id": "fkvoW314mCp8R3xJjdXT7",
+      "type": "line",
+      "x": 874.0396825396842,
+      "y": 794.9682539682533,
+      "width": 79.32539682539846,
+      "height": 33,
+      "angle": 0,
+      "strokeColor": "#5c940d",
+      "backgroundColor": "#ced4da",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 2102066154,
+      "version": 1873,
+      "versionNonce": 1742231530,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -79.32539682539846,
+          33
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "PAjygebE7T_-mcI4l6_fi",
+      "type": "line",
+      "x": 795.6428571428592,
+      "y": 826.2857142857147,
+      "width": 19.198051948051443,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#5c940d",
+      "backgroundColor": "#ced4da",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 471467766,
+      "version": 1570,
+      "versionNonce": 189352374,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -19.198051948051443,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "M0evhwlbzZx56lNWArNaT",
+      "type": "ellipse",
+      "x": 761.3333333333335,
+      "y": 824.6666666666665,
+      "width": 15.845454545454531,
+      "height": 14.81818181818081,
+      "angle": 0,
+      "strokeColor": "#e67700",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 617231167,
+      "version": 2026,
+      "versionNonce": 1411549482,
+      "isDeleted": false
+    },
+    {
+      "id": "OsypaKWl5_ORm7MlxETk5",
+      "type": "line",
+      "x": 872.8531746031754,
+      "y": 2055.491702741703,
+      "width": 79.32539682539846,
+      "height": 33,
+      "angle": 0,
+      "strokeColor": "#5c940d",
+      "backgroundColor": "#ced4da",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 503522282,
+      "version": 1923,
+      "versionNonce": 457861750,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -79.32539682539846,
+          33
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "ODq6giRdfWKpXCAlxSyM_",
+      "type": "line",
+      "x": 794.4563492063503,
+      "y": 2086.8091630591643,
+      "width": 19.198051948051443,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#5c940d",
+      "backgroundColor": "#ced4da",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 304146358,
+      "version": 1620,
+      "versionNonce": 1690312682,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -19.198051948051443,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "ai9zEVOCCcEveqmWwPQkP",
+      "type": "ellipse",
+      "x": 760.1468253968246,
+      "y": 2085.1901154401166,
+      "width": 15.845454545454531,
+      "height": 14.81818181818081,
+      "angle": 0,
+      "strokeColor": "#e67700",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 1250629290,
+      "version": 2076,
+      "versionNonce": 1589750710,
+      "isDeleted": false
+    },
+    {
+      "id": "jj8f8NCVekjkQppWXPldG",
+      "type": "text",
+      "x": 658.5,
+      "y": 2093.25,
+      "width": 227,
+      "height": 32,
+      "angle": 0,
+      "strokeColor": "#e67700",
+      "backgroundColor": "transparent",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "roughness": 1,
+      "opacity": 100,
+      "seed": 162521962,
+      "version": 1994,
+      "versionNonce": 118557226,
+      "isDeleted": false,
+      "text": "Unfolding circumstances",
+      "font": "20px Virgil",
+      "textAlign": "right",
+      "baseline": 23
     }
   ],
   "appState": {
