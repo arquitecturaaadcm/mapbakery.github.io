@@ -1,3 +1,9 @@
+# Whenever somebody asks me for directions, I sketch a simple map...
+
+![Sketched Navigation](images/SketchedNavigation.png)
+
+---
+
 [Boyd](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.PDF) referred to the OODA loop as “the big squeeze,” the ultimate compression of his ideas, the composite of how we think and learn.
 
 The letters OODA stand for:
