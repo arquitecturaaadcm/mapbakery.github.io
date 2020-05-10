@@ -14,13 +14,15 @@ From there, we find out routes between these points. We build up knowledge of th
 
 ## The universal mapping language
 
-Just as our brain uses just a three basic elements to map the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some example how maps can look like when you use only points, paths and (nested) areas.
+Just as our brain uses just a three basic elements to map the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some examples how maps can look like when you use only points, paths and (nested) areas.
 
 The advantages of using just those universal mapping elements is that:
 
+- maps are easy to read
 - maps are easy to explain
 - it's easy to collaborate when making maps
 - people are more willing to give feedback
+- it's easy to integrate a map and a story
 
 ## Examples
 
