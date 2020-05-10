@@ -31,7 +31,7 @@ The advantages of using just those universal mapping elements is that:
 - it's easy to collaborate when making maps
 - people are more willing to give feedback
 - it's easy to integrate a map and a story
-- **and most important it supports our natural mental mapping process!**
+- **and most important it supports and enforces our natural mental mapping process!**
 
 ## Examples
 
