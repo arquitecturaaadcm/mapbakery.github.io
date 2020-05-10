@@ -5,12 +5,12 @@
 
 ## Mental mapping
 
-Cognitive science and research work in other related areas has shown we develop ‘place cells’ in the brain corresponding to points in the physical or conceptual environment and gradually build them up into a mental map of places, routes and, eventually, areas. 
+Cognitive science and research work in other related areas has shown we develop ‘place cells’ in the brain corresponding to points in the physical or conceptual environment and gradually build them up into a mental map of points, paths and, eventually, areas. 
 The mental map we build revolves around the relationship between memorable locations and routes insofar as they are relevant to our needs. 
 
 
 The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. 
-From there, we find out routes between these points. We build up knowledge of the area surrounding the nodes and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
+From there, we find out paths between these points. We build up knowledge of the area surrounding the points and paths and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
 
 The stronger a mental map we have, the more confident we are about planning a way to and reaching our destination or exploring new areas of interest. A good wayfinding (mapping) system should support this natural process of mental mapping.
 
@@ -32,6 +32,11 @@ The advantages of using just those universal mapping elements is that:
 - people are more willing to give feedback
 - it's easy to integrate a map and a story
 - **and most important it supports and enforces our natural mental mapping process!**
+
+## Living maps
+
+For map users it is important that the maps follow the principle of ‘progressive disclosure’ – just enough information and
+not too much. So it is important that maps can be sketched quickly on the fly, e.g. on paper or on a (digital) whiteboard, for a dedicated purpose. Form follows function, so the looks are less important than the content and the consisten use of the three mapping elements (oints, paths and areas). And when a journey based on a sketched map has started, the map must be updated if needed, e.g. when circumstances are changing.
 
 ## Examples
 
