@@ -12,6 +12,11 @@ The mental map we build revolves around the relationship between memorable locat
 The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. 
 From there, we find out routes between these points. We build up knowledge of the area surrounding the nodes and, gradually, clusters of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
 
+## Example
+
+In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" jornal by the award-winning Ruth Malan:
+
+![Ruth Malan's Journal](images/RuthMalanJournal.svg)
 
 ## References
 
