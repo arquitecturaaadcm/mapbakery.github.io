@@ -64,9 +64,11 @@ In 2016 I made a subway map of the interesting articles and storylines of the  "
 
 I used this small map to explain the resposibilities of the technical team. This was just the part of a bigger map (and project) they needed to give them enough context to start their activities:
 
-![Interaction diagram](images/interactiondiagram.jpg)
+![Interaction map](images/interactiondiagram.jpg)
 
 ### Problem solving
+
+![Problem solving](images/ProblemSolving.png)
 
 ### Learning (the OODA loop)
 
