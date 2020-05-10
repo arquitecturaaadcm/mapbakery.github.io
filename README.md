@@ -57,6 +57,11 @@ In 2016 I made a subway map of the interesting articles and storylines of the  "
 
 ### Problem solving
 
+### Learning (the OODA loop)
+
+Often it helps to sketsch your own map when you are trying to understand somebody else his ([OODA](https://en.wikipedia.org/wiki/OODA_loop#/media/File:OODA.Boyd.svg)) diagram:
+
+![OODA sketch](images/OODAoriginal.png)
 
 
 ## References
