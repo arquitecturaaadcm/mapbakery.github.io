@@ -40,7 +40,9 @@ The advantages of using just those universal mapping elements is that:
 ## Living maps
 
 For map users it is important that the maps follow the principle of ‘progressive disclosure’ – just enough information and
-not too much. So it is important that maps can be sketched quickly on the fly, e.g. on paper or on a (digital) whiteboard, for a dedicated purpose. Form follows function, so the looks are less important than the content and the consisten use of the three mapping elements (oints, paths and areas). And when a journey based on a sketched map has started, the map must be updated if needed, e.g. when circumstances are changing.
+not too much. So it is important that maps can be sketched quickly on the fly, e.g. on paper or on a (digital) whiteboard, for a dedicated purpose. Form follows function, so the looks are less important than the content and the consisten use of the three mapping elements (oints, paths and areas). And when a journey based on a sketched map has started, the map must be updated if needed, e.g. when circumstances are changing. And everything is changing very fast these days:
+
+![continues changes](images/Diagram.png)
 
 ## Examples
 
