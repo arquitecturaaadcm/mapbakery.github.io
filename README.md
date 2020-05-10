@@ -85,7 +85,9 @@ The nice thing of sketching your own version is that you get a whole lot ideas w
 
 ![OODA sketch](images/MODA.png)
 
-Which ultimately led to the subway map at the top of this page.
+Which ultimately led to the subway map at the top of this page. And sometimes it is also refreshing to sketch something from another perspective or direction, e.g.:
+
+![OODA sketch](images/OODA(R).png)
 
 ## References
 
