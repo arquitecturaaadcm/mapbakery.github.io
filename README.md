@@ -14,6 +14,12 @@ From there, we find out routes between these points. We build up knowledge of th
 
 ## The universal mapping language
 
+Maps are an efficient, straightforward way of communicating a wealth of information. They provide a rich experience, quickly answering questions relevant to the map user, for example:
+
+– Where am I now?
+- Which direction do I need to go 
+- How difficult will it be to get there?
+
 Just as our brain uses just three basic elements to map the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some examples how maps can look like when you use only points, paths and (nested) areas.
 
 The advantages of using just those universal mapping elements is that:
