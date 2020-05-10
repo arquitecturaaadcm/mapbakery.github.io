@@ -70,6 +70,13 @@ Often it helps to sketsch your own map when you are trying to understand somebod
 
 ![OODA sketch](images/OODAoriginal.png)
 
+The nice thing of sketching your own version is that you get a whole lot ideas which you can map also very fast, like the following iterations:
+
+![OODA sketch](images/SODA.png)
+
+![OODA sketch](images/MODA.png)
+
+Which ultimately led to the subway map at the top of this page.
 
 ## References
 
