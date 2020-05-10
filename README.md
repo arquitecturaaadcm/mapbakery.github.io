@@ -40,16 +40,22 @@ not too much. So it is important that maps can be sketched quickly on the fly, e
 
 ## Examples
 
+### Mapping principles
+
+I'm a great fan of Harry Beck, the designer of the modern London Underground map. He used these principles:
+
+![Subway map principles](images/Beck.png)
+
 ### A summary
 
 In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" jornal by the [award-winning](https://resources.sei.cmu.edu/news-events/events/northrop-award/recipients.cfm) Architecture Consultant [Ruth Malan](http://www.ruthmalan.com/). When you click on this map you get a full-screen version on which you can click the station names to go to related journal article. This shows that maps are also useful to show the way through a huge amount of information. It's the mapmaker who decides which articles will get a station on the map so the map is subjective, like all maps. But you can use the map as a starting point to explore the journal beyond what's on the map.
 
 [![Ruth Malan's Journal](images/RuthMalanJournal.svg)](https://raw.githubusercontent.com/mapbakery/mapbakery.github.io/master/images/RuthMalanJournal.svg)
 
-## Interaction diagram
+### Interaction diagram
 
 
-## Problem solving
+### Problem solving
 
 
 
