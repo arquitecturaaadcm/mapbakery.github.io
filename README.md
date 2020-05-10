@@ -14,7 +14,7 @@ From there, we find out routes between these points. We build up knowledge of th
 
 ## Example
 
-In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" jornal by the award-winning Ruth Malan. When you click on this map you get a full-screen version on which you can click the station names to go to related journal article. This shows that maps are also useful to show the way in a pile of information.
+In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" jornal by the [award-winning](https://resources.sei.cmu.edu/news-events/events/northrop-award/recipients.cfm) [Ruth Malan](http://www.ruthmalan.com/). When you click on this map you get a full-screen version on which you can click the station names to go to related journal article. This shows that maps are also useful to show the way in a pile of information.
 
 [![Ruth Malan's Journal](images/RuthMalanJournal.svg)](https://raw.githubusercontent.com/mapbakery/mapbakery.github.io/e5561679e47ddd982f04a89e7f202d1897b01a72/images/RuthMalanJournal.svg)
 
