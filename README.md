@@ -11,6 +11,8 @@ The mental map we build revolves around the relationship between memorable locat
 
 The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. 
 From there, we find out routes between these points. We build up knowledge of the area surrounding the nodes and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
+or
+The stronger a mental map we have, the more confident we are about planning a way to and reaching our destination or exploring new areas of interest. A good wayfinding (mapping) system should support this natural process of mental mapping.
 
 ## The universal mapping language
 
