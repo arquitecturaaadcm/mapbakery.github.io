@@ -22,7 +22,11 @@ Maps are an efficient, straightforward way of communicating a wealth of informat
 - Which direction do I need to go?
 - How difficult will it be to get there?
 
-Just as our brain uses just three basic elements to map the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some examples how maps can look like when you use only points, paths and (nested) areas.
+Just as our brain uses just three basic elements to map the structure of the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some examples how maps can look like when you use only points, paths and (nested) areas.
+
+The arrow can be used to map actions. So these are all elements you'll need to know:
+
+[Mapping elements](image\DiagrammingTheWorldSketchElements.png)
 
 The advantages of using just those universal mapping elements is that:
 
