@@ -44,6 +44,8 @@ not too much. So it is important that maps can be sketched quickly on the fly, e
 
 ![continues changes](images/Diagram.png)
 
+Especially when makers, thinkers and decision -makers must work together it is important to have a set of common maps which are made via collaboration on a (digital) whiteboard. That gives everybody the opportunity to fill in the holes in other people's mental images and align all mental images.
+
 ## Examples
 
 ### Mapping principles
