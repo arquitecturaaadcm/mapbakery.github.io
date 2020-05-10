@@ -79,7 +79,7 @@ Often it helps to sketsch your own map when you are trying to understand somebod
 
 ![OODA sketch](images/OODAoriginal.png)
 
-The nice thing of sketching your own version is that you get a whole lot ideas which you can map also very fast, like the following iterations:
+The nice thing of sketching your own version is that you get a whole lot ideas which you can map also very fast. And it's easy to get feedback on your ideas by showing them on Twitter. Like I did with the following iterations, I improved with the hel from [Ruth Malan](https://twitter.com/ruthmalan), [Tom Graves](https://twitter.com/tetradian) and [Oliver Baier](https://twitter.com/OliverBaier):
 
 ![OODA sketch](images/SODA.png)
 
