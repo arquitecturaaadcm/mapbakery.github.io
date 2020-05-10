@@ -11,15 +11,15 @@ The mental map we build revolves around the relationship between memorable locat
 
 The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. 
 From there, we find out routes between these points. We build up knowledge of the area surrounding the nodes and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
-or
+
 The stronger a mental map we have, the more confident we are about planning a way to and reaching our destination or exploring new areas of interest. A good wayfinding (mapping) system should support this natural process of mental mapping.
 
 ## The universal mapping language
 
 Maps are an efficient, straightforward way of communicating a wealth of information. They provide a rich experience, quickly answering questions relevant to the map user, for example:
 
-– Where am I now?
-- Which direction do I need to go 
+- Where am I now?
+- Which direction do I need to go?
 - How difficult will it be to get there?
 
 Just as our brain uses just three basic elements to map the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some examples how maps can look like when you use only points, paths and (nested) areas.
@@ -31,6 +31,7 @@ The advantages of using just those universal mapping elements is that:
 - it's easy to collaborate when making maps
 - people are more willing to give feedback
 - it's easy to integrate a map and a story
+- **and most important it supports our natural mental mapping process!**
 
 ## Examples
 
