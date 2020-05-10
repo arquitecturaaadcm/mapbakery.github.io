@@ -68,7 +68,10 @@ I used this small map to explain the resposibilities of the technical team. This
 
 ### Problem solving
 
+I made a map for people from 2 different companies working on a connectivity problem. One line was not working. The "novelty" is that I used numbers inside the stations  which makes it easier to discuss certain points in the connections: 
+
 ![Problem solving](images/ProblemSolving.png)
+(note: the real names which I used in the map are removed)
 
 ### Learning (the OODA loop)
 
