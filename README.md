@@ -52,8 +52,11 @@ In 2016 I made a subway map of the interesting articles and storylines of the  "
 
 [![Ruth Malan's Journal](images/RuthMalanJournal.svg)](https://raw.githubusercontent.com/mapbakery/mapbakery.github.io/master/images/RuthMalanJournal.svg)
 
-### Interaction diagram
+### Interaction map
 
+I used this small map to explain the resposibilities of the technical team. This was just the part of a bigger map (and project) they needed to give them enough context to start their activities:
+
+![Interaction diagram](images/interactiondiagram.jpg)
 
 ### Problem solving
 
