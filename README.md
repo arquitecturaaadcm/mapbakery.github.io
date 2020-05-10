@@ -16,7 +16,7 @@ From there, we find out routes between these points. We build up knowledge of th
 
 In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" jornal by the award-winning Ruth Malan:
 
-![Ruth Malan's Journal](images/RuthMalanJournal.svg)
+[![Ruth Malan's Journal](images/RuthMalanJournal.svg)](https://raw.githubusercontent.com/mapbakery/mapbakery.github.io/e5561679e47ddd982f04a89e7f202d1897b01a72/images/RuthMalanJournal.svg)
 
 ## References
 
