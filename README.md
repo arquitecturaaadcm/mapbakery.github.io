@@ -26,7 +26,7 @@ Just as our brain uses just three basic elements to map the structure of the wor
 
 The arrow can be used to map actions. So these are all elements you'll need to know:
 
-[Mapping elements](images/DiagrammingTheWorldSketchElements.png)
+![Mapping elements](images/DiagrammingTheWorldSketchElements.png)
 
 The advantages of using just those universal mapping elements is that:
 
