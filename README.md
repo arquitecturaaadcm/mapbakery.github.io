@@ -10,7 +10,17 @@ The mental map we build revolves around the relationship between memorable locat
 
 
 The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. 
-From there, we find out routes between these points. We build up knowledge of the area surrounding the nodes and, gradually, clusters of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
+From there, we find out routes between these points. We build up knowledge of the area surrounding the nodes and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
+
+## The universal mapping language
+
+Just as our brain uses just a three basic elements to map the world, so can the same three elements be used to make maps on paper or digital maps which can be shared with others. Below I give some example how maps can look like when you use only points, paths and (nested) areas.
+
+The advantages of using just those universal mapping elements is that:
+
+- maps are easy to explain
+- it's easy to collaborate when making maps
+- people are more willing to give feedback
 
 ## Examples
 
