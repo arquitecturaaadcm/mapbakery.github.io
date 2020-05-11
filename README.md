@@ -45,7 +45,9 @@ When a journey based on a sketched map has started, the map must be updated imme
 
 ![continues changes](images/Diagram.png)
 
-Especially when makers, thinkers and decision -makers must work together it is important to have a set of common maps which are made via collaboration on a (digital) whiteboard. That gives everybody the opportunity to fill in the holes in other people's mental images and align all mental images.
+Especially when makers, thinkers and decision -makers must work together it is important to have a set of common maps which are made via collaboration on a (digital) whiteboard. That gives everybody the opportunity to fill the holes in their own mental maps by aligning them with the whiteboard maps. It makes it also easy to discover the unknows, the things which need more exploration. 
+
+The best thing is just to start mapping with just points, paths, areas and arrows. For inspiration you can look at some of the examples below.
 
 ## Examples
 
