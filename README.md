@@ -61,13 +61,13 @@ I'm a great fan of Harry Beck, the designer of the modern London Underground map
 
 ### A summary
 
-In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" journal by the [award-winning](https://resources.sei.cmu.edu/news-events/events/northrop-award/recipients.cfm) Architecture Consultant [Ruth Malan](http://www.ruthmalan.com/). When you click on this map you get a full-screen version on which you can click the station names to go to related journal article. This shows that maps are also useful to show the way through a huge amount of information. It's the mapmaker who decides which articles will get a station on the map so the map is subjective, like all maps. But you can use the map as a starting point to explore the journal beyond what's on the map.
+In 2016 I made a subway map of the interesting articles and storylines of the  "a Trace in the Sand" journal by the [award-winning](https://resources.sei.cmu.edu/news-events/events/northrop-award/recipients.cfm) Architecture Consultant [Ruth Malan](http://www.ruthmalan.com/). When you click on this map you get a full-screen version on which you can click the station names to go to the related journal article. This shows that maps are also useful to show the way through a huge amount of information. It’s the mapmaker who decides which articles will get a station on the map so the map is subjective, like all maps. But you can use the map as a starting point to explore the journal beyond what’s on the map.
 
 [![Ruth Malan's Journal](images/RuthMalanJournal.svg)](https://raw.githubusercontent.com/mapbakery/mapbakery.github.io/master/images/RuthMalanJournal.svg)
 
 ### Interaction map
 
-I used this small map to explain the resposibilities of the technical team. This was just the part of a bigger map (and project) they needed to give them enough context to start their activities:
+I used this small map to explain the responsibilities of the technical team. This was just the part of a bigger map (and project) they needed to give them enough context to start their activities:
 
 ![Interaction map](images/interactiondiagram.jpg)
 
@@ -80,11 +80,11 @@ I made a map for people from 2 different companies working on a connectivity pro
 
 ### Learning (the OODA loop)
 
-Often it helps to sketsch your own map when you are trying to understand somebody else his ([OODA](https://en.wikipedia.org/wiki/OODA_loop#/media/File:OODA.Boyd.svg)) diagram:
+Often it helps to sketch your own map when you are trying to understand somebody else his ([OODA](https://en.wikipedia.org/wiki/OODA_loop#/media/File:OODA.Boyd.svg)) diagram:
 
 ![OODA sketch](images/OODAoriginal.png)
 
-The nice thing of sketching your own version is that you get a whole lot ideas which you can map also very fast. And it's easy to get feedback on your ideas by showing them on Twitter. Like I did with the following iterations, I improved with the hel from [Ruth Malan](https://twitter.com/ruthmalan), [Tom Graves](https://twitter.com/tetradian) and [Oliver Baier](https://twitter.com/OliverBaier):
+The nice thing of sketching your own version is that you get a whole lot ideas which you can map also very fast. And it's easy to get feedback on your ideas by showing them on Twitter. Like I did with the following iterations, I improved with the help from [Ruth Malan](https://twitter.com/ruthmalan), [Tom Graves](https://twitter.com/tetradian) and [Oliver Baier](https://twitter.com/OliverBaier):
 
 ![OODA sketch](images/SODA.png)
 
