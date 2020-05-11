@@ -1,6 +1,7 @@
 # Whenever somebody asks me for directions, I sketch a simple map...
 
-![Sketched Navigation](images/SketchedNavigation.png)
+>![Long Creek](images/LongCreek.png)
+>Long  Creek Map sketched by Jeff Woodbury to show a photographer where to easily find polluted water for a shot. (source: http://handmaps.org/curated9.html)
 ---
 
 ## Mental mapping
@@ -87,7 +88,11 @@ The nice thing of sketching your own version is that you get a whole lot ideas w
 
 ![OODA sketch](images/MODA.png)
 
-Which ultimately led to the subway map at the top of this page. And sometimes it is also refreshing to sketch something from another perspective or direction, e.g.:
+Which ultimately led to this subway map:
+
+![Sketched Navigation](images/SketchedNavigation.png)
+
+And sometimes it is also refreshing to sketch something from another perspective or direction, e.g.:
 
 ![OODA sketch](images/OODA(R).png)
 
