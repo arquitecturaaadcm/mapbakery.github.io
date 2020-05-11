@@ -2,8 +2,7 @@
 
 >![Long Creek](images/LongCreek.png)
 >
->Long  Creek Map sketched by Jeff Woodbury to show a photographer where to easily find polluted water for a shot. 
->
+>Long  Creek Map sketched by Jeff Woodbury to show a photographer where to easily find polluted water for a shot.  
 >(source: http://handmaps.org/curated9.html)
 ---
 
