@@ -19,9 +19,9 @@ The stronger a mental map we have, the more confident we are about planning a wa
 
 Maps are an efficient, straightforward way of communicating a wealth of information. They provide a rich experience, quickly answering questions relevant to the map user, for example:
 
-•	Where am I now?
-•	Which direction do I need to go?
-•	How difficult will it be to get there?
+-	Where am I now?
+-	Which direction do I need to go?
+-	How difficult will it be to get there?
 
 Just as our brain uses just three basic elements points, paths and areas to map the structure of the world, so can we use the same three elements to make maps which can be shared with others. And on these maps we can use arrows to indicate action, notes or directions.
 So these are all elements you’ll need to know to make simple maps:
