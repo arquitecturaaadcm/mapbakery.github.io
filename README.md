@@ -30,12 +30,12 @@ So these are all elements you’ll need to know to make simple maps:
 
 The advantages of using just those universal mapping elements is that:
 
-- maps are easy to read
-- maps are easy to explain
-- it's easy to collaborate when making maps
-- people are more willing to give feedback
-- it's easy to integrate a map and a story
-- **and most important it supports and enforces our natural mental mapping process!**
+-	Maps are easy to read.
+-	Maps are easy to explain, there is no discussion about the meaning of the visual elements itself.
+-	It’s easier make and improve maps together. People are also more inclined to give feedback thanks to the simplicity of the used visual elements.
+-	When you tell a story it is easy to refer to parts of the map. 
+-	**hese kind of maps support and enforce our natural mental mapping process!**
+
 
 ## Living maps
 
