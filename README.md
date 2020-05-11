@@ -1,7 +1,5 @@
 # Whenever somebody asks me for directions, I sketch a simple map...
 
----
-
 ## Mental mapping
 
 Cognitive science and research work in other related areas has shown we develop ‘place cells’ in the brain corresponding to points in the physical or conceptual environment and gradually build them up into a mental map of points, paths and, eventually, areas. The mental map we build revolves around the relationship between memorable locations and routes insofar as they are relevant to our needs.
