@@ -1,9 +1,5 @@
 # Whenever somebody asks me for directions, I sketch a simple map...
 
->![Long Creek](images/LongCreek.png)
->
->*Long  Creek Map sketched by Jeff Woodbury to show a photographer where to easily find polluted water for a shot.*  
->*(source: http://handmaps.org/curated9.html)*
 ---
 
 ## Mental mapping
@@ -12,8 +8,16 @@ Cognitive science and research work in other related areas has shown we develop 
 
 The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. From there, we find out paths between these points. We build up knowledge of the area surrounding the points and paths and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
 
-The stronger a mental map we have, the more confident we are about planning a way to reach our destination, and the more confident we are to explore new areas. 
+The stronger a mental map we have, the more confident we are about planning a way to reach our destination, and the more confident we are to explore new areas. Or to give someone directions by putting the mental map on paper like:
 
+>![Long Creek](images/LongCreek.png)
+>
+>*Long  Creek Map sketched by Jeff Woodbury to show a photographer where to easily find polluted water for a shot.*  
+>*(source: http://handmaps.org/curated9.html)*
+
+Writers also put mental maps on paper when they are building there stories, to plot storylines in an imaginary world and play with ideas and revisions, like Tolkien did with this sketch of the journey of Frodo and Sam to Mount Doom:
+
+>![Tolkien](images/FrodoSAm.jpg)
 
 ## The universal mapping language
 
