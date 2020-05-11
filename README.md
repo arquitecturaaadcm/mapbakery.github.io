@@ -8,14 +8,12 @@
 
 ## Mental mapping
 
-Cognitive science and research work in other related areas has shown we develop ‘place cells’ in the brain corresponding to points in the physical or conceptual environment and gradually build them up into a mental map of points, paths and, eventually, areas. 
-The mental map we build revolves around the relationship between memorable locations and routes insofar as they are relevant to our needs. 
+Cognitive science and research work in other related areas has shown we develop ‘place cells’ in the brain corresponding to points in the physical or conceptual environment and gradually build them up into a mental map of points, paths and, eventually, areas. The mental map we build revolves around the relationship between memorable locations and routes insofar as they are relevant to our needs.
 
+The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. From there, we find out paths between these points. We build up knowledge of the area surrounding the points and paths and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
 
-The way our brains mentally map areas means that when we encounter a new area, we start with specific arrival and destination points. 
-From there, we find out paths between these points. We build up knowledge of the area surrounding the points and paths and, gradually, areas of areas (”areas all the way down”). Step by step, we build up our knowledge and increase our mental maps until we have as much information as we need.
+The stronger a mental map we have, the more confident we are about planning a way to reach our destination, and the more confident we are to explore new areas. 
 
-The stronger a mental map we have, the more confident we are about planning a way to and reaching our destination or exploring new areas of interest. A good wayfinding (mapping) system should support this natural process of mental mapping.
 
 ## The universal mapping language
 
