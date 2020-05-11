@@ -17,7 +17,7 @@ The stronger a mental map we have, the more confident we are about planning a wa
 
 Writers also put mental maps on paper when they are building there stories, to plot storylines in an imaginary world and play with ideas and revisions, like Tolkien did with this sketch of the journey of Frodo and Sam to Mount Doom:
 
->![Tolkien](images/FrodoSAm.jpg)
+>![Tolkien](images/FrodoSam.jpg)
 
 ## The universal mapping language
 
