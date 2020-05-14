@@ -1,10 +1,8 @@
 # Whenever somebody asks me for directions, I sketch a simple map...
 
->What's a “way”? 
->
->Don’t know where you are? It's something you've lost.
->Don’t know where you are going? It's something you are looking for. 
-
+>What's a “way”?   
+>Don’t know where you are? It's something you've lost.    
+>Don’t know where you are going? It's something you are looking for.     
 >If you know it, show it to the people who have lost it or are looking for it...
 
 ## Mental mapping
