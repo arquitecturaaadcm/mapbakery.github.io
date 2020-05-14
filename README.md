@@ -1,4 +1,4 @@
-# If somebody is lost, I sketch the way...
+# Map how you see it!
 
 >What's a “way”?   
 >Don’t know where you are? It's something you've lost.    
