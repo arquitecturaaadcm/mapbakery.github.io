@@ -22,7 +22,7 @@ Writers also put mental maps on paper when they are building there stories, to p
 
 >![Tolkien](images/FrodoSam.jpg)
 
-But these sketsches are still very personal and not always easy to read. If you want to share map sketches with a broader audience, including fast revisions based on the received feedback, we need a more clear and simple mapping method...
+But these sketches are still very personal and not always easy to read. If you want to share map sketches with a broader audience, including fast revisions based on the received feedback, we need a more clear and simple mapping method...
 
 ## The universal mapping language
 
