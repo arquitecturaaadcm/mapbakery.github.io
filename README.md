@@ -1,9 +1,6 @@
 # Map how you see it!
 
->What's a “way”?   
->Don’t know where you are? It's something you've lost.    
->Don’t know where you are going? It's something you are looking for.     
->If you know it, show it to the people who have lost it or are looking for it...
+> The details we see on maps are the result of the mapmaker's process to keep things in or out, presented in a combination of information and design.  
 
 ## Mental mapping
 
