@@ -104,6 +104,12 @@ And sometimes it is also refreshing to sketch something from another perspective
 
 ![OODA sketch](images/OODA(R).png)
 
+### The Hippocampus subway map
+
+Well not yet, first I just need to test this:
+
+[Image Map Test](html/imagemapresizer.html)
+
 ## References
 
 My way of working and the text on this page are based upon ideas and texts from [Legible London: The Yellow Book A prototype wayfinding system for London](http://content.tfl.gov.uk/ll-yellow-book.pdf) and Barbara Tversky's [Mind in Motion: How Action Shapes Thought](https://www.skeptic.com/science-salon/mind-in-motion-how-action-shapes-thought/) book.
