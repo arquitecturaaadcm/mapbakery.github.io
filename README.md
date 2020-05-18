@@ -108,7 +108,7 @@ And sometimes it is also refreshing to sketch something from another perspective
 
 Well not yet, first I just need to test this:
 
-[Image Map Test](html/imagemapresizer.html)
+![Image Map Test](html/imagemapresizer.html)
 
 ## References
 
