@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML ImageMap resizing example</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="iFrame message passing test">
+	<meta name="viewport" content="width=device-width">
+<body>
+
+	<h2>Automagically resizing imageMap</h2>
+	<p>Resize window and the HTML ImageMap will scale with the image.</p>
+
+<img src="../images/TubeMapTest.png" usemap="#image_map" border="0" width="100%">
+<map name="image_map">
+  <area alt="Mapbakery on Twitter" title="Mapbakery on Twitter" href="https://twitter.com/mapbakery" coords="193,6,412,75" shape="rect">
+</map>
+	<script type="text/javascript" src="../js/imageMapResizer.js"></script>
+
+	<script type="text/javascript">
+
+		imageMapResize();
+	</script>
+
+</body>
+</html>
