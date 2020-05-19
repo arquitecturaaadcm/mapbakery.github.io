@@ -108,7 +108,7 @@ And sometimes it is also refreshing to sketch something from another perspective
 
 Well not yet, first I just need to test this:
 
-[Image Map Test](https://rawcdn.githack.com/mapbakery/mapbakery.github.io/5a554583f0daa9d2f7749918ef4c12d4fddd3760/html/imagemapresizer.html)
+[Image Map Test](https://rawcdn.githack.com/mapbakery/mapbakery.github.io/52a10a6f6c4a7c8ce9e9215a392b57eb3c36569b/html/imagemapresizer.html)
 
 ## References
 
